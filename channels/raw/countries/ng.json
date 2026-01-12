@@ -34,17 +34,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bH0xAdzXSreOQz",
-    "name": "Approval TV",
-    "iptv_urls": [
-      "https://live.approvaltv.com/approvaltv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MP4bBMx7wAtF5b",
     "name": "Arise News",
     "iptv_urls": [],
@@ -200,17 +189,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HUxeirBEJ9XVlF",
-    "name": "News Central",
-    "iptv_urls": [
-      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "iptv_urls": [],
@@ -340,6 +318,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b-Yzp0l8cAM"
     ],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y3iniHuYhBuCQD",
+    "name": "Wap TV",
+    "iptv_urls": [
+      "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "ng",
     "isGeoBlocked": false

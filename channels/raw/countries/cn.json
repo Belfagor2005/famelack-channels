@@ -104,6 +104,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HWaY4PvApDJTzN",
+    "name": "CGTN Europe",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
+    ],
+    "language": "eng",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkFFCXUNQeINYF",
     "name": "CGTN Français",
     "iptv_urls": [
@@ -226,17 +237,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RUHNYqwyWf7P40",
-    "name": "Nei Monggol TV Economic & Life Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686562470947181.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qo8wyOgFdrtyLL",
     "name": "Nei Monggol TV News Channel",
     "iptv_urls": [
@@ -263,17 +263,6 @@
     "name": "QTV-2",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5Cnt9e5fETRq9",
-    "name": "QTV-3",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -325,6 +314,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IoBPBg5ALFnRHd",
+    "name": "Tonghua TV",
+    "iptv_urls": [
+      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
+      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dNTHGcZALSkHIT",
     "name": "TV BRICS Chinese",
     "iptv_urls": [
@@ -369,6 +370,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HC5cW7V27xtaJW",
+    "name": "Zhejiang TV International",
+    "iptv_urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PQS6mmZySzL6Rf",
     "name": "上虞1新闻综合",
     "iptv_urls": [
@@ -402,6 +414,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HzvN0O8csJFrwx",
+    "name": "之江纪录",
+    "iptv_urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4gpT2C61YO4gJy",
     "name": "余姚姚江文化",
     "iptv_urls": [
@@ -427,7 +450,8 @@
     "nanoid": "uqZiHgAdYqRdQT",
     "name": "内蒙古",
     "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8"
+      "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
+      "https://play1-qk.nmtv.cn/live/1686560387346365.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -516,7 +540,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qz363zKMvnE"
+      "https://www.youtube-nocookie.com/embed/j61mDyKlXBQ"
     ],
     "language": "zho",
     "country": "cn",

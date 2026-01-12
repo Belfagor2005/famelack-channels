@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "jhyn7Gf0kasCsu",
+    "name": "Al-Iman TV",
+    "iptv_urls": [
+      "https://tv.aliman.id/aliman/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nSDUTdlv9S20hO",
     "name": "Alwafa Tarim TV (Am Media)",
     "iptv_urls": [
@@ -44,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KOhwshxakg9PIS",
+    "name": "Banjar TV",
+    "iptv_urls": [
+      "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Oc19gUQD1UBDsM",
     "name": "Banten TV",
     "iptv_urls": [
@@ -66,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jNS2zLnbe2xbOW",
+    "name": "BE TV",
+    "iptv_urls": [
+      "https://flv.intechmedia.net/live/ch58.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uJBF1tDsL0la1J",
     "name": "BeritaSatu English",
     "iptv_urls": [
@@ -81,6 +114,17 @@
     "name": "BN Channel",
     "iptv_urls": [
       "https://flv.intechmedia.net/live/ch112.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lV8zHLVhKEPFpW",
+    "name": "BRTV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -220,17 +264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LISekcgicAyOGd",
-    "name": "Garuda TV",
-    "iptv_urls": [
-      "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iKRL8braCsStZJ",
     "name": "Huma Betang TV",
     "iptv_urls": [
@@ -257,17 +290,6 @@
     "name": "Inspira TV",
     "iptv_urls": [
       "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AwWVoTg8nnvs2w",
-    "name": "Jambi TV",
-    "iptv_urls": [
-      "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -374,17 +396,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ecUQ5CkoI04"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "iptv_urls": [],
@@ -433,7 +444,7 @@
     "name": "MTATV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lifAvCiZnxI"
+      "https://www.youtube-nocookie.com/embed/hio7tigf1E0"
     ],
     "language": "ind",
     "country": "id",
@@ -473,10 +484,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WBUDfuwdrsRZbo",
-    "name": "PKTV",
+    "nanoid": "3v2UZx2WqrnRDM",
+    "name": "Radar Tasikmalaya TV",
     "iptv_urls": [
-      "https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8"
+      "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -612,6 +623,17 @@
       "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ihDo7tW4NG0"
+    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -761,17 +783,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AIvndURhkfCKoa",
-    "name": "TVKU",
-    "iptv_urls": [
-      "https://tvku.tv/hlsstream/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LoQgh9Xj1nCTfY",
     "name": "tvOneNews",
     "iptv_urls": [],
@@ -798,17 +809,6 @@
     "name": "TVRI Bali",
     "iptv_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sN4o2leEYvu2mV",
-    "name": "TVRI Bangka Belitung",
-    "iptv_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -970,6 +970,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4lgXnmhGxV9Mm5",
+    "name": "TVRI North Sulawesi",
+    "iptv_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IFuLYd1zf8pEZM",
     "name": "TVRI North Sumatra",
     "iptv_urls": [
@@ -1047,6 +1058,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5BD8NXhLlxGRfy",
+    "name": "TVRI Sulawesi Selatan",
+    "iptv_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TDtA1ok3J1ZDYf",
     "name": "TVRI Sulawesi Tengah",
     "iptv_urls": [
@@ -1117,17 +1139,6 @@
     "name": "TVRI Yogyakarta",
     "iptv_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g5xZd9yme6tjFT",
-    "name": "U Channel",
-    "iptv_urls": [
-      "https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",

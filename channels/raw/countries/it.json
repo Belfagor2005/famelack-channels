@@ -286,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vrlS9LYggqZr3W",
+    "name": "Class CNBC",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zY8UN9MRRHxEYy",
     "name": "Company TV",
     "iptv_urls": [
@@ -674,17 +685,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ex98n0tFYkUwoo",
-    "name": "Lazio TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QUgozEv0vZrkjK",
     "name": "Lira TV",
     "iptv_urls": [
@@ -736,6 +736,17 @@
     ],
     "youtube_urls": [],
     "language": "its",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ffGmMhn32f5osC",
+    "name": "Medjugorje Italia TV",
+    "iptv_urls": [
+      "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -927,6 +938,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IB19NO8mheWDOa",
+    "name": "QSVS: Milanow",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/rBk91xaVIt4"
+    ],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7TX9VjMY1i891b",
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
@@ -1034,17 +1056,6 @@
     "name": "Radio Piter Pan TV",
     "iptv_urls": [
       "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J3ixZRUPWWs9Op",
-    "name": "Radio Roma News",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1854,6 +1865,17 @@
     "name": "Trentino TV",
     "iptv_urls": [
       "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4lRmmKh0IB2m5u",
+    "name": "TV Campane 1",
+    "iptv_urls": [
+      "https://eu1.servers10.com:8081/8032/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

@@ -843,17 +843,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SgwTXtRwTwkQgJ",
-    "name": "RTV Utrecht",
-    "iptv_urls": [
-      "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T0fk5Gpm8VF0Tn",
     "name": "RTV Veluwezoom",
     "iptv_urls": [
@@ -902,28 +891,6 @@
     "name": "Salto 2",
     "iptv_urls": [
       "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Arhd6FvJ684mYa",
-    "name": "Salto MaLive",
-    "iptv_urls": [
-      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -1144,18 +1111,6 @@
     "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
     "iptv_urls": [
       "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kFgkTaYcE0JGsc",
-    "name": "UStad",
-    "iptv_urls": [
-      "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
-      "https://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

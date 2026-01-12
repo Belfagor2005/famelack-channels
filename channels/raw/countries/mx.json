@@ -124,7 +124,7 @@
     "nanoid": "xzuVRX23DvlAX2",
     "name": "Canal 5",
     "iptv_urls": [
-      "https://d162h6qqsk8wvl.cloudfront.net/a3df683f-7ba6-4012-8c2c-3cfd188c8c0c/manifest.m3u8"
+      "https://d162h6qqsk8wvl.cloudfront.net/f6b10fd2-1c75-472b-8ad7-f51d0076b04d/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -398,6 +398,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CrHxjo8TlGVNjG",
+    "name": "Despierta TV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/despiertatv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0v8d7EFpyejD8F",
     "name": "Eclipse TV",
     "iptv_urls": [
@@ -415,17 +426,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/fy_fYd3ZwPE"
     ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -512,7 +512,18 @@
     "name": "Imagen Multicast",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/S_CtCEw3S64"
+      "https://www.youtube-nocookie.com/embed/5nnIM2yffC4"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5lhODGYtGp6nxK",
+    "name": "ImagenTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/F3V3V6Jvyk8"
     ],
     "language": "spa",
     "country": "mx",
@@ -556,6 +567,17 @@
     "name": "Justicia TV",
     "iptv_urls": [
       "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hSjFJVIKV0TRAc",
+    "name": "Las Estrellas",
+    "iptv_urls": [
+      "https://d162h6qqsk8wvl.cloudfront.net/e4025399-d1b6-4e51-8505-de9ec123a3fb/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -646,6 +668,17 @@
       "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCFfnKm8W8E1LH",
+    "name": "NMás",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uBpOWT8s-gc"
+    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -920,7 +953,7 @@
     "name": "Televisa Ciudad Juarez",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GkzKsdycdno"
+      "https://www.youtube-nocookie.com/embed/uhaQRuPsg4U"
     ],
     "language": "spa",
     "country": "mx",
@@ -960,6 +993,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V9bf7FdY5Rbg5t",
+    "name": "Televisa Guerrero",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vnLUPBYAwVk"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -986,7 +1030,18 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DpUzFvK3Nog"
+      "https://www.youtube-nocookie.com/embed/OIXOyya06VI"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Jiv0dDh9RrbAvZ",
+    "name": "Televisa Piedras Negras",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8bfEMv6azg4"
     ],
     "language": "spa",
     "country": "mx",
@@ -1026,11 +1081,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rds4SfQCR5Bcp9",
+    "name": "Televisa Sonora",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/w3gqnCX6cKA"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kBLqWOYbCQz0Mi",
     "name": "Televisa Univision Saltillo",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ATfzppDtAOg"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wxWI34kwK6mekY",
+    "name": "Televisa Veracruz",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/U05QZTy1XEg"
     ],
     "language": "spa",
     "country": "mx",
@@ -1085,6 +1162,17 @@
     "name": "TRC Televisión",
     "iptv_urls": [
       "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XOxYoEJxY8dEWb",
+    "name": "TUDN",
+    "iptv_urls": [
+      "https://d162h6qqsk8wvl.cloudfront.net/c84794a7-80f2-4598-a92d-f8641cc684f4/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1316,6 +1404,17 @@
     "name": "Visión Televisión",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dVKL4L047xU9Ly",
+    "name": "XHFN-TDT1",
+    "iptv_urls": [
+      "https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

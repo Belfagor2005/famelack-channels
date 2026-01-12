@@ -22,28 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IP3OhGLS9zmwc7",
-    "name": "I24 News English",
-    "iptv_urls": [
-      "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "il",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nOFz3HA6kpBla1",
-    "name": "I24 News French",
-    "iptv_urls": [
-      "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "il",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ITvqSqttaucRiv",
     "name": "I24 News Hebrew",
     "iptv_urls": [
@@ -126,7 +104,7 @@
     "name": "Now 14",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kUWH9lRNM7Y"
+      "https://www.youtube-nocookie.com/embed/4YUGGesrZaM"
     ],
     "language": "heb",
     "country": "il",

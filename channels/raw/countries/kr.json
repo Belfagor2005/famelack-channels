@@ -430,17 +430,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
-    "iptv_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jvEnH2enN4Ahyj",
     "name": "MBC News",
     "iptv_urls": [],
@@ -474,6 +463,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "iptv_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8fjuljf7xVUPuM",
     "name": "NS Shop Plus",
     "iptv_urls": [
@@ -496,28 +496,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k3eT_CfZnYA"
-    ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "iptv_urls": [
@@ -533,7 +511,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Mnlzc3mduHY"
+      "https://www.youtube-nocookie.com/embed/fkI8zN_8ay4"
     ],
     "language": "kor",
     "country": "kr",
@@ -588,6 +566,17 @@
     "name": "Shopping NT",
     "iptv_urls": [
       "https://live.shoppingntmall.com/live/10011.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2HZMrsMvWjfCCr",
+    "name": "TBS Seoul",
+    "iptv_urls": [
+      "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",

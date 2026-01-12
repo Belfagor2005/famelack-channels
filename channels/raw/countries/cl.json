@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "At9xDVwnRJnJwN",
     "name": "13 Kids",
     "iptv_urls": [
@@ -171,6 +182,17 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QoGV8rDGlGQ"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -356,7 +378,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uuZRUv8NtRg"
+      "https://www.youtube-nocookie.com/embed/BNU3kUZiSWs"
     ],
     "language": "spa",
     "country": "cl",
@@ -442,17 +464,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G45spfYKl3BXh4",
-    "name": "Radio Ritmo",
-    "iptv_urls": [
-      "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jjgl7AaKfJq0wX",
     "name": "Santa María Televisión",
     "iptv_urls": [
@@ -526,6 +537,17 @@
       "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mvCL9CmKOhlNrJ",
+    "name": "Televisión del Senado",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/eGj1YENpXps"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -713,17 +735,6 @@
     "name": "V Classic TV",
     "iptv_urls": [
       "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y2Z36ASHb1vcNr",
-    "name": "VC Online",
-    "iptv_urls": [
-      "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

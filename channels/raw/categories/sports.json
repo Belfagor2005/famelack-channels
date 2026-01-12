@@ -665,6 +665,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nKepPfPxroGdqa",
+    "name": "MotoGP",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ew4-cN1tEc0"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "057AuVcfpScIV5",
     "name": "MSG",
     "iptv_urls": [
@@ -864,17 +875,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {

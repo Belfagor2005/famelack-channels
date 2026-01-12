@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "BWaFZgSUSFWAMm",
-    "name": "Boonniyom TV",
+    "nanoid": "fgt71QAXBWF0xr",
+    "name": "13 Siam Thai",
     "iptv_urls": [
-      "https://live.x2.co.th/live/bntv.m3u8"
+      "https://live.x2.co.th/live/13livetv-th.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -323,6 +323,17 @@
     "name": "Top News",
     "iptv_urls": [
       "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xP0smrBM1w21kH",
+    "name": "TV Muslim Thailand",
+    "iptv_urls": [
+      "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",

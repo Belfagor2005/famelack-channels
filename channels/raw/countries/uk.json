@@ -223,17 +223,6 @@
     "nanoid": "0Nsqcxag0o981J",
     "name": "BBC Three HD",
     "iptv_urls": [
-      "https://x.canlitvapp.com/u-bbc3/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Nsqcxag0o981J",
-    "name": "BBC Three HD",
-    "iptv_urls": [
       "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
     ],
     "youtube_urls": [],
@@ -246,17 +235,6 @@
     "name": "BBC Three/CBBC",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IbxDj9HZd9srb3",
-    "name": "BBC Two",
-    "iptv_urls": [
-      "https://x.canlitvapp.com/u-bbc2/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -364,45 +342,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OY6jo3uJ6LjEUs",
-    "name": "CBeebies HD",
-    "iptv_urls": [
-      "https://x.canlitvapp.com/u-cbeebies/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xxKmXN3iTO8aLs",
-    "name": "CGTN Europe",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BoatqKhgOKJ5e1",
     "name": "Channel 4 UK HD",
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tszORKqR9xnZXC",
-    "name": "Channel 5",
-    "iptv_urls": [
-      "https://x.canlitvapp.com/u-channel-5/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -454,6 +397,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0pbNhjsVz7A"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -494,17 +448,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u6dHm89DYJkcoL",
-    "name": "Dunya News (UK Feed)",
-    "iptv_urls": [
-      "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -902,6 +845,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nKepPfPxroGdqa",
+    "name": "MotoGP",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ew4-cN1tEc0"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ssqKpbmOPdqaC8",
     "name": "Mr. Bean Anime",
     "iptv_urls": [
@@ -1012,17 +966,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1515,6 +1458,17 @@
     "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-xumo.amagi.tv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
+    "iptv_urls": [
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

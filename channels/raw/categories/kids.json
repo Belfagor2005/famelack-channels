@@ -376,17 +376,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OY6jo3uJ6LjEUs",
-    "name": "CBeebies HD",
-    "iptv_urls": [
-      "https://x.canlitvapp.com/u-cbeebies/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OrgQw5NnGfhd8H",
     "name": "Chinola TV",
     "iptv_urls": [
@@ -663,17 +652,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zXKH8WmbfaDrMI",
-    "name": "Get Movies: Маша и Медведь",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5UzHvPFuWqQ"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OXrSvXG0IZZsyw",
     "name": "Gulli",
     "iptv_urls": [
@@ -694,17 +672,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1ov4rKCt7xdyVW",
-    "name": "Japanim TV",
-    "iptv_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -745,7 +712,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DKgUz588JjQ"
+      "https://www.youtube-nocookie.com/embed/u29UeFNAWFI"
     ],
     "language": "urd",
     "country": "pk",
@@ -1099,7 +1066,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0LhrR4fm8E8"
+      "https://www.youtube-nocookie.com/embed/tMDAF2oT4FA"
     ],
     "language": "por",
     "country": "br",
@@ -1147,17 +1114,6 @@
     ],
     "language": "jpn",
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k3eT_CfZnYA"
-    ],
-    "language": "kor",
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1699,7 +1655,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qz363zKMvnE"
+      "https://www.youtube-nocookie.com/embed/j61mDyKlXBQ"
     ],
     "language": "zho",
     "country": "cn",

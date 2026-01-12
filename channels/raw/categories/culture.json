@@ -263,7 +263,7 @@
       "https://cdn-1.pishow.tv/live/10/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ogWPCjOXtXo"
+      "https://www.youtube-nocookie.com/embed/SwxG3bSOc_s"
     ],
     "language": "hin",
     "country": "in",
@@ -363,17 +363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jVp1vLlNX4ZofN",
     "name": "ETB Basque",
     "iptv_urls": [
@@ -461,17 +450,6 @@
     ],
     "language": "rom",
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -831,6 +809,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RiifWdXjWLsqP4",
+    "name": "ORF III HD",
+    "iptv_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "iptv_urls": [
@@ -928,6 +917,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "ma",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7omf3emk4fDdL8",
+    "name": "STZ TV",
+    "iptv_urls": [
+      "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1068,17 +1068,6 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
-    "iptv_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
