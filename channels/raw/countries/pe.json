@@ -114,7 +114,7 @@
     "name": "Congreso del Perú en Vivo",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DvvzfPrPJ14"
+      "https://www.youtube-nocookie.com/embed/lBs7u0cmP6w"
     ],
     "language": "spa",
     "country": "pe",
@@ -180,17 +180,6 @@
     "name": "JN19",
     "iptv_urls": [
       "https://servilive.com:3028/live/jntv19live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4MzSBBmB0C1tiF",
-    "name": "Karibena",
-    "iptv_urls": [
-      "https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -452,6 +441,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kM9f6SL02cl9SX",
+    "name": "Telesur Camana",
+    "iptv_urls": [
+      "https://telesurnew.b-cdn.net/hls/camana.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AKNtFFRrBkrePj",
     "name": "Telesur Moquegua",
     "iptv_urls": [
@@ -555,6 +555,17 @@
     "name": "TVUNO",
     "iptv_urls": [
       "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CXQzBhDcjLd9xW",
+    "name": "Unife TV",
+    "iptv_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -324,6 +324,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "u6zpmHPrnF1o3c",
+    "name": "CGTN Documentary",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
     "iptv_urls": [
@@ -688,7 +699,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xs04fgD-ahI"
+      "https://www.youtube-nocookie.com/embed/04kaO0LXe68"
     ],
     "language": "tur",
     "country": "tr",
@@ -788,6 +799,17 @@
     "name": "Kanal 26",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bRsKMoXGrApX11",
+    "name": "Kanal 32",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -961,6 +983,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oYLz4JWGWtAe6e",
+    "name": "Lider Haber",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/hGVc-xwDc4o"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sIsIH2RBxpGiQq",
     "name": "Life TV",
     "iptv_urls": [
@@ -1108,6 +1141,17 @@
     "name": "On 6",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GhgRziNqEHb8Jk",
+    "name": "On4 TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

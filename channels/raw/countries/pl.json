@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/l_eGr9tuyL4"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5fsuYuCG8ydAtN",
     "name": "Bigtime",
     "iptv_urls": [
@@ -309,17 +320,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MX3bniLd1xw"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zfbee02Fm1Nqwi",
     "name": "Telewizja Jaslo",
     "iptv_urls": [
@@ -565,6 +565,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Xbyv5nbzKrN69d",
+    "name": "WP TV",
+    "iptv_urls": [
+      "https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xUqnXZyWFKx10m",
     "name": "Z Nation",
     "iptv_urls": [
@@ -572,17 +583,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bpwyCfxeYK07lR",
-    "name": "ZTV live",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/I5KQt940dZo"
-    ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   }

@@ -384,8 +384,7 @@
     "nanoid": "jSUKExZugJJpgn",
     "name": "TeleBielingue",
     "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8",
-      "https://edge20.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8"
+      "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

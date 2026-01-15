@@ -111,14 +111,14 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "fG091FxoA2NCwZ",
-    "name": "MCI Televisión",
+    "nanoid": "O7kNo7GEugTsdZ",
+    "name": "Mixkurdy",
     "iptv_urls": [
-      "https://video.ejeserver.com/live/mcitelevision.m3u8"
+      "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
+    "language": "kur",
+    "country": "iq",
     "isGeoBlocked": false
   },
   {

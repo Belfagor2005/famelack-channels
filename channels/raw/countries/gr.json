@@ -136,7 +136,7 @@
     "name": "ecclesiaTV.gr",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RPNJt21EleU"
+      "https://www.youtube-nocookie.com/embed/qCUKCS9PrUI"
     ],
     "language": "ell",
     "country": "gr",
@@ -303,6 +303,17 @@
     "name": "STAR International",
     "iptv_urls": [
       "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "axcim7j9dTO22W",
+    "name": "Start TV",
+    "iptv_urls": [
+      "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

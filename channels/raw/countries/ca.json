@@ -180,6 +180,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nuCkj2isILRO5a",
+    "name": "EET TV",
+    "iptv_urls": [
+      "https://eu.streamjo.com/eetlive/eettv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BFpewkLm3lqPGP",
     "name": "Erfan Halgheh TV",
     "iptv_urls": [
@@ -750,6 +761,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sMtLcZJ0VSsWq6",
     "name": "Stingray Classic Rock",
     "iptv_urls": [
@@ -1208,6 +1230,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KCwFLWdyJegcPw",
+    "name": "Zee TV Canada",
+    "iptv_urls": [
+      "https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
     "country": "ca",
     "isGeoBlocked": false
   }

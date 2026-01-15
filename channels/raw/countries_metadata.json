@@ -213,7 +213,7 @@
     "country": "Belize",
     "capital": "Belmopan",
     "timeZone": "America/Belize",
-    "hasChannels": false
+    "hasChannels": true
   },
   "CA": {
     "country": "Canada",
@@ -243,7 +243,7 @@
     "country": "Congo",
     "capital": "Brazzaville",
     "timeZone": "Africa/Brazzaville",
-    "hasChannels": true
+    "hasChannels": false
   },
   "CH": {
     "country": "Switzerland",
@@ -489,7 +489,7 @@
     "country": "Gambia",
     "capital": "Banjul",
     "timeZone": "Africa/Banjul",
-    "hasChannels": false
+    "hasChannels": true
   },
   "GN": {
     "country": "Guinea",
@@ -507,7 +507,7 @@
     "country": "Equatorial Guinea",
     "capital": "Malabo",
     "timeZone": "Africa/Malabo",
-    "hasChannels": false
+    "hasChannels": true
   },
   "GR": {
     "country": "Greece",
@@ -843,7 +843,7 @@
     "country": "Macau",
     "capital": "Macau",
     "timeZone": "Asia/Macau",
-    "hasChannels": true
+    "hasChannels": false
   },
   "MP": {
     "country": "Northern Mariana Islands",
