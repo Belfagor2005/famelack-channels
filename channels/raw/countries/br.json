@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "rtbi6hxyaPNSIn",
+    "name": "1001 Noites",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SM0FavCZG665bI",
     "name": "Adesso TV",
     "iptv_urls": [
@@ -173,17 +184,6 @@
       "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jWaAlQihd1Q"
-    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -424,7 +424,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B5BFQ0nF__k"
+      "https://www.youtube-nocookie.com/embed/AUruR2QHSDg"
     ],
     "language": "por",
     "country": "br",
@@ -446,17 +446,6 @@
     "name": "Plena TV",
     "iptv_urls": [
       "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jKDEdNqLxjs3LB",
-    "name": "RBATV",
-    "iptv_urls": [
-      "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -567,6 +556,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/1OTCZQrqEdw"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iHsfcZXYEPAKKO",
     "name": "Santuário Nacional de Aparecida",
     "iptv_urls": [],
@@ -648,17 +648,6 @@
     "name": "STZ TV",
     "iptv_urls": [
       "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tlMRtrczD2xa0E",
-    "name": "TCM 10 HD",
-    "iptv_urls": [
-      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -749,7 +738,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5FEkkfOz5IM"
+      "https://www.youtube-nocookie.com/embed/NzNpt7Cqvkc"
     ],
     "language": "por",
     "country": "br",
@@ -760,6 +749,17 @@
     "name": "TV Brasil",
     "iptv_urls": [
       "https://tvbrasil-stream.ebc.com.br/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fKBN1GktoY4Pyo",
+    "name": "TV Brasil Central",
+    "iptv_urls": [
+      "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -936,17 +936,6 @@
     "name": "TV Encontro das Aguas",
     "iptv_urls": [
       "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NoqDxZd1Xoy0q1",
-    "name": "TV Futuro",
-    "iptv_urls": [
-      "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1134,17 +1123,6 @@
     "name": "TV Passo Fundo",
     "iptv_urls": [
       "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rREG7vaT91drEA",
-    "name": "TV Plan",
-    "iptv_urls": [
-      "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",

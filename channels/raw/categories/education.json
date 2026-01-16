@@ -176,17 +176,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TbETZirFbV6iE6",
-    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
-    "iptv_urls": [
-      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EHP7r0Fg5OJVXF",
     "name": "Create",
     "iptv_urls": [
@@ -727,17 +716,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x3F9gYLjcCoe0W",
-    "name": "Multizonas TV",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8068/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cHbsSpLERISueK",
     "name": "Nashua ETV Channel 22 Nashua NH",
     "iptv_urls": [
@@ -823,6 +801,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "iptv_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1177,17 +1166,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "iptv_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

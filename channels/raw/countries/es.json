@@ -280,17 +280,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yljcrjGTTw7LxA",
-    "name": "Canal 4 Mancha Centro",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z7MEi4DtQ5gKCY",
     "name": "Canal 10 Empordà",
     "iptv_urls": [
@@ -867,6 +856,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b0E5tyyObiYQ6m",
+    "name": "LiraTV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iHJMMNrrNRdPm9",
     "name": "Logos TV",
     "iptv_urls": [
@@ -1032,17 +1032,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "r4O5xUGbFguCQr",
     "name": "Pequeradio",
     "iptv_urls": [
@@ -1153,13 +1142,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pegM9YYgQxLOsZ",
-    "name": "Rakuten TV Action Movies UK",
+    "nanoid": "akUnyMZyexeI3L",
+    "name": "Rakuten TV Action Movies Spain",
     "iptv_urls": [
-      "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SqdL0M66Q2lMl2",
+    "name": "Rakuten TV Cine Español",
+    "iptv_urls": [
+      "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1681,17 +1681,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ciqRUeYYlnMbyC",
     "name": "Tuya La Janda Television",
     "iptv_urls": [
@@ -1699,17 +1688,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tJnnR1sDEnmxAh",
-    "name": "TV Almassora",
-    "iptv_urls": [
-      "https://tvalmassora.com/hls/tvalmassora.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1774,17 +1752,6 @@
     "name": "TVE Star HD",
     "iptv_urls": [
       "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kwKGKTuhcnTGZS",
-    "name": "TVM Córdoba",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

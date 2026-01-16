@@ -48,7 +48,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kdtsIkMDxXM"
+      "https://www.youtube-nocookie.com/embed/b6Tt5NcTX10"
     ],
     "language": "jpn",
     "country": "jp",
@@ -105,17 +105,6 @@
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Xxt6pP3Jqt3MeP",
-    "name": "BBC Earth Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -415,6 +404,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "iptv_urls": [
+      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cd",
     "isGeoBlocked": false
   },
   {

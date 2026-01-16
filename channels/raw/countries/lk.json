@@ -70,7 +70,7 @@
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kfTWd5lxEEk"
+      "https://www.youtube-nocookie.com/embed/VaC6uw4d7Uk"
     ],
     "language": "sin",
     "country": "lk",
@@ -84,17 +84,6 @@
     ],
     "youtube_urls": [],
     "language": "tam",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2kFmLsUZ8zPq3c",
-    "name": "Newsfirst Sri Lanka",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/J4ur19q91iU"
-    ],
-    "language": "sin",
     "country": "lk",
     "isGeoBlocked": false
   },
@@ -159,6 +148,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i4sBVt8evbI"
+    ],
+    "language": "sin",
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AOoB2s0AaU3TV6",
+    "name": "TV Derana",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kciJPwxP4c4"
     ],
     "language": "sin",
     "country": "lk",

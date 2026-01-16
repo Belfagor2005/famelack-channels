@@ -518,6 +518,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로: #1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TTY_6_ojjC0"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "iptv_urls": [

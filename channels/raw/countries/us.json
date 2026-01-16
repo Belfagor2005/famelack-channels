@@ -277,6 +277,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pNO1A2SnOPsV3y",
+    "name": "AABC TV",
+    "iptv_urls": [
+      "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hye",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ugGAivxJyE8GHx",
     "name": "AAC Television",
     "iptv_urls": [],
@@ -2291,7 +2302,7 @@
     "name": "CBS News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8tfNk-W8PXg"
+      "https://www.youtube-nocookie.com/embed/4OCOOKVvr0o"
     ],
     "language": "eng",
     "country": "us",
@@ -2608,17 +2619,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0SIsNpt7L1SFyk",
-    "name": "Cheaters",
-    "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/599d452d-bbc8-4a96-8a43-e015ac5b6367/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0dSH9QKBdQUX0E",
     "name": "Cheddar News",
     "iptv_urls": [
@@ -2747,8 +2747,7 @@
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
-      "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
-      "https://circle-klowdtv.amagi.tv/playlist.m3u8"
+      "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2916,17 +2915,6 @@
     "name": "Cold Case Files",
     "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TbETZirFbV6iE6",
-    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
-    "iptv_urls": [
-      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -3729,17 +3717,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fwNNMhQUuk5Jx2",
-    "name": "Dr. G Medical Examiner",
-    "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/057f9237-5a35-4d7e-9993-7d1b407c9acd/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -5119,17 +5096,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eJqdWh86h1CDSb",
-    "name": "Horror Machine",
-    "iptv_urls": [
-      "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "fy2D24X7zteSs1",
     "name": "HSN",
     "iptv_urls": [
@@ -5373,17 +5339,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TGIxs2mxFIlLmz",
-    "name": "ION",
-    "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/51860817-b4e8-4fad-9254-7fccce5b2ac8/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -6296,17 +6251,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J1ZxKC4hiVQsq4",
-    "name": "Latin Zone TV",
-    "iptv_urls": [
-      "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -7443,6 +7387,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xxUpwtiAfnEUHS",
+    "name": "NBC 5 Chicago Live News",
+    "iptv_urls": [
+      "https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gcYxn6QV4g1dRc",
     "name": "NBC 8 Lancaster PA (WGAL)",
     "iptv_urls": [
@@ -7559,7 +7514,7 @@
     "name": "NBC News Now",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MLWA4jWI3s4"
+      "https://www.youtube-nocookie.com/embed/DZO8G35yOUQ"
     ],
     "language": "eng",
     "country": "us",
@@ -7713,10 +7668,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "dr5pYcUriuuOto",
-    "name": "News12 Long Island",
+    "nanoid": "EmHOTWEORpvSsZ",
+    "name": "News12 Brooklyn",
     "iptv_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -7724,10 +7679,32 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "q8agflF5shjdE5",
-    "name": "News12 Westchester",
+    "nanoid": "EtiKHivASIxm20",
+    "name": "News12 Conneticut",
     "iptv_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "kStaIms86sY53l",
+    "name": "News12 Hudson Valley",
+    "iptv_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dr5pYcUriuuOto",
+    "name": "News12 Long Island",
+    "iptv_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -7967,6 +7944,7 @@
     "nanoid": "NiTjGp1PXehjKc",
     "name": "OAN",
     "iptv_urls": [
+      "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -8261,6 +8239,17 @@
       "https://www.youtube-nocookie.com/embed/bZHo-wGJrE4"
     ],
     "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "iptv_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -9049,17 +9038,6 @@
     "nanoid": "GW0gwGPjDJCVmB",
     "name": "Reelz Famous & Infamous",
     "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GW0gwGPjDJCVmB",
-    "name": "Reelz Famous & Infamous",
-    "iptv_urls": [
       "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -9071,8 +9049,7 @@
     "nanoid": "picLEx37kLXuuG",
     "name": "Reuters TV",
     "iptv_urls": [
-      "https://d5bxknkoxytmb.cloudfront.net/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8",
-      "https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8"
+      "https://d5bxknkoxytmb.cloudfront.net/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -9132,17 +9109,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6C5D5jQG7akI6v",
-    "name": "Royal Time Television",
-    "iptv_urls": [
-      "https://tixbolt.com/royaltv/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -9773,7 +9739,6 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -9899,6 +9864,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8YqM4hJ4mQ9qJf",
+    "name": "Studio Universal Latin America",
+    "iptv_urls": [
+      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10069,17 +10045,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hAcFI08ZNbAHCM",
-    "name": "Tastemade",
-    "iptv_urls": [
-      "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10484,6 +10449,17 @@
     "language": "",
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OVcMIdQh1mNNYo",
+    "name": "The Jamie Oliver Channel",
+    "iptv_urls": [
+      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Y7iBJrCdZ70ae8",
@@ -11703,6 +11679,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lc23m27i2YvIDV",
+    "name": "USA Network Latin America",
+    "iptv_urls": [
+      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FEJoCyr2CSD2YY",
+    "name": "USA Today",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-tITTnQPYf4"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CncLAxJ4uLXvmb",
     "name": "USA Today News",
     "iptv_urls": [
@@ -12818,17 +12816,6 @@
       "https://www.youtube-nocookie.com/embed/AatxkgXuaBI"
     ],
     "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TSYVYIqhAFR2B5",
-    "name": "World's Most Evil Killers",
-    "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/c7400837-bc80-432a-8216-731d0b31a05f/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "us",
     "isGeoBlocked": false
   },

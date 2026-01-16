@@ -561,6 +561,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xceNg3zrNinnuh",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/CFJw4nKc9E4"
+    ],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
     "iptv_urls": [
@@ -706,6 +717,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/cPhZXwV890M"
+    ],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "iptv_urls": [
@@ -745,6 +767,17 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "iptv_urls": [
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -997,6 +1030,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ixhyYhnKxhDZBe",
+    "name": "OK Flensburg",
+    "iptv_urls": [
+      "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAd1Ubg7TEmAUU",
+    "name": "OK Kiel",
+    "iptv_urls": [
+      "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sUOa2YFtkV3OvI",
     "name": "One HD",
     "iptv_urls": [
@@ -1220,17 +1275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x5Tm4sSiBqyqwq",
-    "name": "Rennsteig TV",
-    "iptv_urls": [
-      "https://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6I4CQI5DQQYidR",
     "name": "RFH",
     "iptv_urls": [
@@ -1438,17 +1482,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nUHCgjRUR5TBtm",
-    "name": "Studio 47",
-    "iptv_urls": [
-      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },

@@ -507,6 +507,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7ou9OY1nQUGsSq",
+    "name": "Tiguerito TV",
+    "iptv_urls": [
+      "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Lif7wI9SEZFwXL",
     "name": "TokuSHOUTsu: ReBoot",
     "iptv_urls": [],
@@ -584,21 +595,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hzA9M1g8Uiyjea",
-    "name": "Xtrema Cartoons",
-    "iptv_urls": [
-      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

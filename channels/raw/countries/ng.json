@@ -25,6 +25,7 @@
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "iptv_urls": [
+      "https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
       "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -188,6 +189,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HUxeirBEJ9XVlF",
+    "name": "News Central",
+    "iptv_urls": [
+      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "iptv_urls": [],
@@ -291,7 +303,7 @@
     "name": "TrustTV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zv4YP1lOmWE"
+      "https://www.youtube-nocookie.com/embed/gvZtiYpe3PA"
     ],
     "language": "eng",
     "country": "ng",

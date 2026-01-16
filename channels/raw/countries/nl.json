@@ -524,6 +524,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GcnHRx3K6PYs9j",
+    "name": "Omrop Fryslân",
+    "iptv_urls": [
+      "https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yYHMh744A9jABH",
     "name": "OOG TV",
     "iptv_urls": [
@@ -880,28 +891,6 @@
     "name": "Salto 2",
     "iptv_urls": [
       "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Arhd6FvJ684mYa",
-    "name": "Salto MaLive",
-    "iptv_urls": [
-      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
