@@ -48,19 +48,8 @@
     "name": "AlKahera WalNas 2",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_IHIE7E2HjM"
+      "https://www.youtube-nocookie.com/embed/67W6o4ukwSI"
     ],
-    "language": "ara",
-    "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dSBCv9wMIeHZkP",
-    "name": "El Radio 9090 FM",
-    "iptv_urls": [
-      "https://9090video.mobtada.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ara",
     "country": "eg",
     "isGeoBlocked": false

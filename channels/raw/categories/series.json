@@ -292,7 +292,7 @@
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kshasUUHrug"
+      "https://www.youtube-nocookie.com/embed/RJfNj_tZ7Sw"
     ],
     "language": "ara",
     "country": "sa",
@@ -649,7 +649,7 @@
     "name": "TokuSHOUTsu: Kyōryū Sentai Zyuranger",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hY9vwYxeRFI"
+      "https://www.youtube-nocookie.com/embed/LJS_scWPvAk"
     ],
     "language": "jpn",
     "country": "us",
@@ -664,6 +664,28 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "41ap4CgxZB4KsE",
+    "name": "TVE Star",
+    "iptv_urls": [
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "70kNFzzOa9jQON",
+    "name": "TVE Star HD",
+    "iptv_urls": [
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {

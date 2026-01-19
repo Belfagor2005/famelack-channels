@@ -434,17 +434,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CjjJWwnxdtJ1Na",
-    "name": "Canal San Roque",
-    "iptv_urls": [
-      "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wObfzBEicqKEBD",
     "name": "Canal Sierra de Cádiz",
     "iptv_urls": [
@@ -680,6 +669,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ev5jam8gTwJugh",
     "name": "Estepona Televisión",
     "iptv_urls": [
@@ -859,8 +860,7 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -875,17 +875,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b0E5tyyObiYQ6m",
-    "name": "LiraTV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1121,13 +1110,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "79RGODupZW3p8n",
-    "name": "Radio Carnaval TV",
+    "nanoid": "OfgEoWKYhuXnuw",
+    "name": "Rakuten Top Movies UK",
     "iptv_urls": [
-      "https://eu1.servers10.com:8081/8116/index.m3u8"
+      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1143,17 +1132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9Te0eCyfaDh09o",
-    "name": "Rakuten TV Action Movies Germany",
-    "iptv_urls": [
-      "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C4SJBjbzRYK0Ib",
     "name": "Rakuten TV Action Movies Italy",
     "iptv_urls": [
@@ -1161,6 +1139,17 @@
     ],
     "youtube_urls": [],
     "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "akUnyMZyexeI3L",
+    "name": "Rakuten TV Action Movies Spain",
+    "iptv_urls": [
+      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1249,6 +1238,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jLlxOKRQAsHJaj",
+    "name": "Rakuten TV Drama Movies Finland",
+    "iptv_urls": [
+      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1429,6 +1429,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dGOfxttCQdrVvT",
+    "name": "Rakuten TV Top Movies Spain",
+    "iptv_urls": [
+      "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f8SQ2RtI4gtamW",
     "name": "Rakuten VIKI",
     "iptv_urls": [
@@ -1455,6 +1466,17 @@
     "name": "Ribera TV",
     "iptv_urls": [
       "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LAxYlfGvF61ICE",
+    "name": "Rioja Televisión",
+    "iptv_urls": [
+      "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1671,10 +1693,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ciqRUeYYlnMbyC",
-    "name": "Tuya La Janda Television",
+    "nanoid": "mOCMYDYV2t8RPY",
+    "name": "Trece",
     "iptv_urls": [
-      "https://play.agenciastreaming.com:8081/tuyaespana/tracks-v1a1/mono.m3u8"
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1682,13 +1704,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tJnnR1sDEnmxAh",
-    "name": "TV Almassora",
+    "nanoid": "ciqRUeYYlnMbyC",
+    "name": "Tuya La Janda Television",
     "iptv_urls": [
-      "https://tvalmassora.com/hls/tvalmassora.m3u8"
+      "https://play.agenciastreaming.com:8081/tuyaespana/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
-    "language": "cat",
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1749,6 +1771,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "41ap4CgxZB4KsE",
+    "name": "TVE Star",
+    "iptv_urls": [
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "70kNFzzOa9jQON",
     "name": "TVE Star HD",
     "iptv_urls": [
@@ -1756,6 +1789,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "70kNFzzOa9jQON",
+    "name": "TVE Star HD",
+    "iptv_urls": [
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

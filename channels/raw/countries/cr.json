@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "fp34BcAXOlbIfX",
+    "name": "¡OPA! (1080i)",
+    "iptv_urls": [
+      "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LA4o1ry7L0C9al",
     "name": "360 RFTV",
     "iptv_urls": [
@@ -33,32 +44,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0fe1ozGC5qVsh",
-    "name": "Canal 1",
-    "iptv_urls": [
-      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9cN6rSKGfOi3ha",
     "name": "Canal 3 KMK TV",
     "iptv_urls": [
       "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -231,6 +220,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/laISvRmGxzg"
+    ],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K2jiXD7UiZELMV",
     "name": "Nicoya TV",
     "iptv_urls": [
@@ -253,21 +253,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
     "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
-    "iptv_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
+      "https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -308,6 +297,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GHvLc9YKjbjb4r",
     "name": "Telefides",
     "iptv_urls": [
@@ -323,17 +323,6 @@
     "name": "TeleMas",
     "iptv_urls": [
       "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
-    "iptv_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -149,17 +149,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S2faB272qXEjP4",
-    "name": "Asharq News Portrait",
-    "iptv_urls": [
-      "https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Tl12ojqlqKkMqp",
     "name": "Asharq Radio",
     "iptv_urls": [
@@ -199,7 +188,7 @@
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kshasUUHrug"
+      "https://www.youtube-nocookie.com/embed/RJfNj_tZ7Sw"
     ],
     "language": "ara",
     "country": "sa",

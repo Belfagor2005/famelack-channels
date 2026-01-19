@@ -60,7 +60,7 @@
     "name": "Arche TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/l_eGr9tuyL4"
+      "https://www.youtube-nocookie.com/embed/VEqjJXobxvU"
     ],
     "language": "pol",
     "country": "pl",
@@ -232,6 +232,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0sTieNHH5vCr72",
+    "name": "Motowizja",
+    "iptv_urls": [
+      "https://liveovh009.cda.pl/enc116/motowizjahdraw/motowizjahdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IPiyON07d4yY0e",
+    "name": "Power TV",
+    "iptv_urls": [
+      "https://liveovh009.cda.pl/enc120/powertvhdraw/powertvhdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HCuXiJRBY0QrpX",
+    "name": "Puls 2",
+    "iptv_urls": [
+      "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PgSQJkjlJAZPaq",
     "name": "RACER International",
     "iptv_urls": [
@@ -287,6 +320,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1tR7VJn14clZ7t",
+    "name": "Szlagier TV",
+    "iptv_urls": [
+      "https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EQEGSe3LlRCr52",
     "name": "Szlagierowo: Biesiadne Radio",
     "iptv_urls": [],
@@ -331,11 +375,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mRFyheBmrSRckk",
+    "name": "Telewizja Dami Radom",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/I6s6W5gWiYM"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hjCXHjX41BNCM8",
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fnVY98TvXRM"
+      "https://www.youtube-nocookie.com/embed/2ivCh540SMA"
     ],
     "language": "pol",
     "country": "pl",

@@ -689,7 +689,7 @@
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Tkc8ws9_1hk"
+      "https://www.youtube-nocookie.com/embed/rPaAcL6MMj8"
     ],
     "language": "eng",
     "country": "uk",
@@ -1242,17 +1242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "iptv_urls": [
@@ -1279,7 +1268,7 @@
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iFdwI5Y4-10"
+      "https://www.youtube-nocookie.com/embed/5kPwGzc7-zM"
     ],
     "language": "eng",
     "country": "uk",
@@ -1560,6 +1549,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B0N3YLVGTZmUxD",
+    "name": "World War TV",
+    "iptv_urls": [
+      "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },

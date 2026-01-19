@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2JuIWNzpBvexFE",
-    "name": "Canal 26 TV IAP",
-    "iptv_urls": [
-      "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lZCJ28tnHKpEgP",
     "name": "El Camino TV",
     "iptv_urls": [
@@ -92,6 +81,17 @@
     "name": "JFV TV",
     "iptv_urls": [
       "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "It09WcJXuh2yq1",
+    "name": "Josué TV",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -202,17 +202,6 @@
     "name": "TV León de Judá",
     "iptv_urls": [
       "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b1EAokD2bBiJTE",
-    "name": "TVCa Televisión Católica Arquidiocesana",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

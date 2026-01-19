@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2OfelL9lkYifhd",
     "name": "Auténtica Televisión",
     "iptv_urls": [
@@ -105,6 +94,17 @@
       "https://live.obslivestream.com/conecta2/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BsLAke0hXZM"
+    ],
     "language": "spa",
     "country": "pe",
     "isGeoBlocked": false
@@ -401,6 +401,17 @@
     "name": "Telecolor Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/telecolormux/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wmJ1QxQIvPF4LM",
+    "name": "Teleselva",
+    "iptv_urls": [
+      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
