@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "hiCZpbwj9latCv",
+    "name": "Coral TV",
+    "iptv_urls": [
+      "https://tv.mediacp.eu:8081/coraltv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "btaTHB02v7Y9B8",
     "name": "F10 HD",
     "iptv_urls": [
@@ -125,28 +136,6 @@
     "name": "UPEA TV",
     "iptv_urls": [
       "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aiAxUCzm682WZl",
-    "name": "Zoy TV Turcas",
-    "iptv_urls": [
-      "https://mio.zoymilton.com/ZoyTurcas/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zBnDeXzf6y9yBT",
-    "name": "ZoyTV Plus",
-    "iptv_urls": [
-      "https://mio.zoymilton.com/ZoyPlus/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

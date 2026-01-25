@@ -286,17 +286,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6sh2TBEF2ZIvFo",
-    "name": "Latacunga TV",
-    "iptv_urls": [
-      "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2UL8hACEyKl0pF",
     "name": "Loreto TV",
     "iptv_urls": [
@@ -418,6 +407,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GTfEbP4G445UTc",
+    "name": "Pantalla Clásica EC",
+    "iptv_urls": [
+      "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "if95kHJ4URww0a",
     "name": "PJ Digital Radio TV",
     "iptv_urls": [
@@ -433,17 +433,6 @@
     "name": "Plus TV",
     "iptv_urls": [
       "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yQP21gjr5nH5Wg",
-    "name": "Puruwa TV",
-    "iptv_urls": [
-      "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -594,10 +583,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CY38SV2i5DFUTV",
+    "name": "TV Cisne",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/tvcisne/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7rCpyg4PCpPsco",
     "name": "TV Color Canal 36",
     "iptv_urls": [
       "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LfL7xtgZtyuyhr",
+    "name": "TV Universal Ecuador",
+    "iptv_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -620,6 +631,17 @@
     "name": "Vos y TV",
     "iptv_urls": [
       "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0JIsuSxBK3riKE",
+    "name": "Wuan+",
+    "iptv_urls": [
+      "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

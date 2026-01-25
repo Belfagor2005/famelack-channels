@@ -67,6 +67,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kViHud7pJIRjfw",
+    "name": "AlKawthar",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -166,6 +177,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QtyIEE9DZnKUAu",
+    "name": "Canal 17 RTVD",
+    "iptv_urls": [
+      "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tANS8F526JB5KR",
     "name": "Canal Catorce",
     "iptv_urls": [
@@ -252,7 +274,7 @@
       "https://cdn-1.pishow.tv/live/10/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SwxG3bSOc_s"
+      "https://www.youtube-nocookie.com/embed/X4U_ws5upTE"
     ],
     "language": "hin",
     "country": "in",
@@ -300,7 +322,7 @@
       "https://cdn-4.pishow.tv/live/8/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/99rHfkhkLBM"
+      "https://www.youtube-nocookie.com/embed/i--xfotJs7w"
     ],
     "language": "urd",
     "country": "in",
@@ -422,7 +444,6 @@
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -527,6 +548,17 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DTB26EOMXy8ybv",
+    "name": "IRIB4",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -776,6 +808,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J5GYuBAaffsbX6",
+    "name": "Ofogh",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WlUf5uIhWJFf6Y",
     "name": "Olelo Community Media Channel 53",
     "iptv_urls": [
@@ -942,17 +985,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WSVwH48J9agVpk",
-    "name": "TBN TV",
-    "iptv_urls": [
-      "https://live.suricloud.com/hls/tbntv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bZLmwi1rLZYaKq",
     "name": "Telepace 2",
     "iptv_urls": [
@@ -961,6 +993,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cWWftSEuzr59Qo",
+    "name": "TV Cuatro 4.2",
+    "iptv_urls": [
+      "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

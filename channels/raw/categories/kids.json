@@ -787,6 +787,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cS5WWc43jjdjbz",
+    "name": "Lenz Animation",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e5EXvO8ucfhlsQ",
     "name": "Leo Si Penjaga Alam",
     "iptv_urls": [],
@@ -875,17 +886,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FeQiCZUhzv3lT3",
-    "name": "Moonbug Kids",
-    "iptv_urls": [
-      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3VQ70bm6nYhxs7",
     "name": "Mr Bean Live Action",
     "iptv_urls": [
@@ -949,6 +949,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sf2UUZ1IfXDGmN",
+    "name": "Omid",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1077,7 +1088,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Sf3hBfvE-n0"
+      "https://www.youtube-nocookie.com/embed/fkvUzqee2i8"
     ],
     "language": "por",
     "country": "br",
@@ -1125,6 +1136,17 @@
     ],
     "language": "jpn",
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D2Lk5wz1WJGy5f",
+    "name": "Pooya & Nahal",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1228,22 +1250,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XalAktI_ABc"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-45_9mx2uaQ"
+      "https://www.youtube-nocookie.com/embed/eJSXmaM3KYA"
     ],
     "language": "eng",
     "country": "ca",
@@ -1254,7 +1265,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7bzaGJbmqxU"
+      "https://www.youtube-nocookie.com/embed/dZARYIIvDes"
     ],
     "language": "eng",
     "country": "ca",
@@ -1265,7 +1276,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CJEGaU-FVIs"
+      "https://www.youtube-nocookie.com/embed/3r7yigOdJ30"
     ],
     "language": "eng",
     "country": "ca",
@@ -1517,6 +1528,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "iptv_urls": [],
@@ -1597,7 +1619,6 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
       "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
@@ -1666,7 +1687,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DpaWbzXUcWk"
+      "https://www.youtube-nocookie.com/embed/5GKaphRcDbo"
     ],
     "language": "zho",
     "country": "cn",

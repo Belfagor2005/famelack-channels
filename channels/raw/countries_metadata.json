@@ -843,7 +843,7 @@
     "country": "Macau",
     "capital": "Macau",
     "timeZone": "Asia/Macau",
-    "hasChannels": false
+    "hasChannels": true
   },
   "MP": {
     "country": "Northern Mariana Islands",
@@ -963,7 +963,7 @@
     "country": "Nepal",
     "capital": "Kathmandu",
     "timeZone": "Asia/Kathmandu",
-    "hasChannels": false
+    "hasChannels": true
   },
   "NR": {
     "country": "Nauru",

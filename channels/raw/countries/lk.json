@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GqCp27T0s0lfCz",
-    "name": "Methmaga TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/39J5wh-BZjw"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lb91CXq3a9VbL6",
     "name": "NDTV LANKA",
     "iptv_urls": [
@@ -88,22 +77,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PV4q0CxdmR4YKH",
-    "name": "Sathi TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eRSqtBIxELY"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1svuli9OcB1Brg",
     "name": "Shraddha TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cWUW8XhnIaQ"
+      "https://www.youtube-nocookie.com/embed/Y4cASMahR5o"
     ],
     "language": "sin",
     "country": "lk",

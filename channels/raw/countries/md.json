@@ -22,10 +22,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cu9S3t2cvLny0T",
-    "name": "PRO TV Chisinau",
+    "nanoid": "HSwH6uFzgwd6tN",
+    "name": "Privesc.Eu TV",
     "iptv_urls": [
-      "https://stream.protv.md/live/sursa-1/index.m3u8"
+      "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -37,17 +37,6 @@
     "name": "Rlive TV",
     "iptv_urls": [
       "https://realitatealive.md/tv/rlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "md",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sI0ew6lEh5sEPV",
-    "name": "TV-Nord",
-    "iptv_urls": [
-      "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",

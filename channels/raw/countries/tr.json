@@ -168,6 +168,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t1RycxudRtQfEw",
+    "name": "Aşk-ı Nevâ",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BRs0GDByyOY"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
     "iptv_urls": [
@@ -176,17 +187,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nMakM6G0sKUXTn",
-    "name": "ATV Avrupa",
-    "iptv_urls": [
-      "https://streamer2.nexgen.bz/ATV/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -437,6 +437,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Vrnn5uA2AF9TAU",
+    "name": "Elapro Sahne: Radyo Türküler",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/eQK7fonE8t0"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aUMgSxs4t83jMD",
     "name": "Emret Komutanım",
     "iptv_urls": [],
@@ -677,7 +688,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-BJRW0XUrEg"
+      "https://www.youtube-nocookie.com/embed/XWu____vPcY"
     ],
     "language": "tur",
     "country": "tr",
@@ -821,17 +832,6 @@
     "name": "Kanal Firat",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hGtWqYE7XonF37",
-    "name": "Kanal Hayat",
-    "iptv_urls": [
-      "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1577,10 +1577,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bgn8mfchHatjpX",
+    "name": "TV 52",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "iptv_urls": [
       "https://tv100-live.daioncdn.net/tv100/tv100.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZdxrMEOa28PZnq",
+    "name": "TV 264",
+    "iptv_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

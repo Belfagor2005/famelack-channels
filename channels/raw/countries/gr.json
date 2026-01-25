@@ -136,7 +136,7 @@
     "name": "ecclesiaTV.gr",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kYH8Y8WkAr4"
+      "https://www.youtube-nocookie.com/embed/pSiFOWR3YG8"
     ],
     "language": "ell",
     "country": "gr",
@@ -147,6 +147,17 @@
     "name": "Egnatia TV",
     "iptv_urls": [
       "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rNwXK8U9QtgSSA",
+    "name": "Faros TV2",
+    "iptv_urls": [
+      "https://s1.cystream.net/live/faros2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

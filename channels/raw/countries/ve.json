@@ -11,10 +11,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L2ckl8qUgIXBH9",
-    "name": "Anzoátegui TV",
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
     "iptv_urls": [
-      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -22,10 +22,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xNO3EJp4mhTrDD",
-    "name": "AS3 Sport TV",
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
     "iptv_urls": [
-      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uShK1SgZwLoTJ4",
-    "name": "Isla TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MIcJy2C1jnLtEJ",
     "name": "KandelaTV",
     "iptv_urls": [
@@ -165,10 +154,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "auc0jMNpvasOnO",
+    "name": "Meridiano TV",
+    "iptv_urls": [
+      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4vAoi7DUnPi0Mm",
     "name": "Onza TV",
     "iptv_urls": [
       "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dJh7EB1lQFwOCd",
+    "name": "Plous TV",
+    "iptv_urls": [
+      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

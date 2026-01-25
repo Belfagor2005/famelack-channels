@@ -121,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SZKqh8My275jx3",
+    "name": "FairON",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-njuqCmZ6Eo"
+    ],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sNGgqsLaPmiNb6",
     "name": "Fashion Finds",
     "iptv_urls": [
@@ -195,17 +206,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWubgLKIN9lBtR",
-    "name": "Handystar",
-    "iptv_urls": [
-      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
     "isGeoBlocked": false
   },
   {
