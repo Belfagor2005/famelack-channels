@@ -346,6 +346,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RXOTRvJYcdYU7o",
+    "name": "Canal 33 Madrid",
+    "iptv_urls": [
+      "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eu4hl3zkjGqEnK",
     "name": "Canal 45",
     "iptv_urls": [
@@ -859,11 +870,21 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YDIi3VBX7D7fKC",
+    "name": "La 2 Catalunya",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1059,6 +1080,17 @@
     "name": "Onda Valencia",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1572,17 +1604,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TAur6WI03rCzWr",
-    "name": "SpektraTV",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SKSq9EL0wsiHSO",
     "name": "STZ Telebista",
     "iptv_urls": [
@@ -1715,17 +1736,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ciqRUeYYlnMbyC",
     "name": "Tuya La Janda Television",
     "iptv_urls": [
@@ -1841,17 +1851,6 @@
     "name": "TVE Star HD",
     "iptv_urls": [
       "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kwKGKTuhcnTGZS",
-    "name": "TVM Córdoba",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

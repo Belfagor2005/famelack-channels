@@ -852,6 +852,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RiifWdXjWLsqP4",
+    "name": "ORF III HD",
+    "iptv_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "iptv_urls": [
@@ -985,6 +996,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WSVwH48J9agVpk",
+    "name": "TBN TV",
+    "iptv_urls": [
+      "https://live.suricloud.com/hls/tbntv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "sr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bZLmwi1rLZYaKq",
     "name": "Telepace 2",
     "iptv_urls": [
@@ -1095,11 +1117,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7IG6c8BLRlAZXA",
+    "name": "Беларусь 3",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KBcCoX6T4T4OZ7",
     "name": "Культура",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

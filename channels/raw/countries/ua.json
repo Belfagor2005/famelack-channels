@@ -4,7 +4,7 @@
     "name": "5 канал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XgcjTSgRcOg"
+      "https://www.youtube-nocookie.com/embed/0TIwbRGPThk"
     ],
     "language": "ukr",
     "country": "ua",
@@ -96,17 +96,6 @@
       "https://www.youtube-nocookie.com/embed/ooJJSOlJZPQ"
     ],
     "language": "rus",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ijBxrnqlhILuI",
-    "name": "ITV",
-    "iptv_urls": [
-      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -270,7 +259,7 @@
     "name": "Телеканал Конкурент TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aQcKxNi3vwk"
+      "https://www.youtube-nocookie.com/embed/igjkieh5akA"
     ],
     "language": "ukr",
     "country": "ua",

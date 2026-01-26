@@ -503,6 +503,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C1zMWQcgRfpuVK",
+    "name": "ETV Manisa",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "08vFfPl2upbXA4",
     "name": "Euro D",
     "iptv_urls": [
@@ -531,6 +542,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pdyq7lixkPI"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qgqjKHkHjQzR2F",
+    "name": "Finans Turk TV",
+    "iptv_urls": [
+      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -795,17 +817,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bRsKMoXGrApX11",
-    "name": "Kanal 32",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F2Mb6ARE1l9qx2",
     "name": "Kanal 33",
     "iptv_urls": [
@@ -832,6 +843,17 @@
     "name": "Kanal Firat",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hGtWqYE7XonF37",
+    "name": "Kanal Hayat",
+    "iptv_urls": [
+      "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1577,17 +1599,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bgn8mfchHatjpX",
-    "name": "TV 52",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "iptv_urls": [
@@ -1704,7 +1715,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3o5inKCyWPU"
+      "https://www.youtube-nocookie.com/embed/MeNN6Nym0kM"
     ],
     "language": "tur",
     "country": "tr",

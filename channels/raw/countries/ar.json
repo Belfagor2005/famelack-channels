@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "OuXJk2O3QtFOgh",
-    "name": "24/7 Canal de Noticias",
-    "iptv_urls": [
-      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wa2wvWwVF98vcA",
     "name": "A24",
     "iptv_urls": [],
@@ -400,17 +389,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v7fuzMjUcfiKGk",
-    "name": "Canal 79 La Costa",
-    "iptv_urls": [
-      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGdrDzPisNgZkI",
     "name": "Canal 79 Puan",
     "iptv_urls": [
@@ -523,17 +501,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "njewIOEi3Bzjbb",
-    "name": "Chilecito TV",
-    "iptv_urls": [
-      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "iptv_urls": [
@@ -604,7 +571,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/H0tYnB1WE3Q"
+      "https://www.youtube-nocookie.com/embed/gFcqtJVi5_Y"
     ],
     "language": "spa",
     "country": "ar",
@@ -662,6 +629,17 @@
       "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fZSvuJMsU-A"
+    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -1020,6 +998,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/X8FWhWNOFAs"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xRJ5PYrL3SOh4P",
     "name": "TN Todo Noticias",
     "iptv_urls": [],
@@ -1102,7 +1091,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9Bq5rlcdqls"
+      "https://www.youtube-nocookie.com/embed/32jBs_RAEV4"
     ],
     "language": "spa",
     "country": "ar",

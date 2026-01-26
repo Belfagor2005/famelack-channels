@@ -506,17 +506,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JUHY7ZFUwE8O9n",
-    "name": "Finest TV",
-    "iptv_urls": [
-      "https://media.finest.tv/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6ftPsR4C1PTDrI",
     "name": "Fluss Monster",
     "iptv_urls": [
@@ -568,6 +557,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KWubgLKIN9lBtR",
+    "name": "Handystar",
+    "iptv_urls": [
+      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -745,6 +745,17 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "iptv_urls": [
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1202,17 +1213,6 @@
     "name": "Regio TV Stuttgart",
     "iptv_urls": [
       "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x5Tm4sSiBqyqwq",
-    "name": "Rennsteig TV",
-    "iptv_urls": [
-      "https://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

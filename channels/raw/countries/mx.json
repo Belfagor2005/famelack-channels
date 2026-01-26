@@ -66,43 +66,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qf77ffETeFgOfr",
-    "name": "Azteca 7 Mexico City",
-    "iptv_urls": [
-      "https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "49nmeVhY8qIuOA",
     "name": "Azteca Internacional",
     "iptv_urls": [
       "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I6SQhQn74t89lq",
-    "name": "B15 Fresnillo",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9BZEZK4EYJz8lC",
-    "name": "B15 Zacatecas",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -398,6 +365,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5lhODGYtGp6nxK",
+    "name": "ImagenTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/x2ZYpUhXsj4"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hvpyyH4xiS4fE5",
     "name": "IMRyT Morelos TV",
     "iptv_urls": [
@@ -525,6 +503,17 @@
       "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCFfnKm8W8E1LH",
+    "name": "NMás",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NjU1wDEvA5U"
+    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -876,7 +865,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/X0JhtMbEV7c"
+      "https://www.youtube-nocookie.com/embed/ql9wyGT_N5Y"
     ],
     "language": "spa",
     "country": "mx",
@@ -887,7 +876,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YWLPa6a5WaA"
+      "https://www.youtube-nocookie.com/embed/rH7CXzmpvFA"
     ],
     "language": "spa",
     "country": "mx",
@@ -975,7 +964,7 @@
     "name": "Televisa Victoria",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ITHyfNgfLDI"
+      "https://www.youtube-nocookie.com/embed/44xI-qzz7c0"
     ],
     "language": "spa",
     "country": "mx",

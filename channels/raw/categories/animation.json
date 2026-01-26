@@ -121,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics",
+    "iptv_urls": [
+      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tIGqdwnTT3ZqJq",
     "name": "Cartoon Network: Adventure Time",
     "iptv_urls": [],
@@ -423,7 +434,7 @@
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5kPwGzc7-zM"
+      "https://www.youtube-nocookie.com/embed/nfQ5J0dk5V8"
     ],
     "language": "eng",
     "country": "uk",
@@ -587,6 +598,7 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
       "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],

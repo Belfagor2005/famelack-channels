@@ -193,6 +193,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7Hsc69UuEllEuA",
+    "name": "Harbin Movie Channel",
+    "iptv_urls": [
+      "https://stream.hrbtv.net/yspd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5kYv876l5SB1BL",
     "name": "Nei Monggol TV 2 Mongolian Culture Channel",
     "iptv_urls": [
@@ -281,17 +292,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5Cnt9e5fETRq9",
-    "name": "QTV-3",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v5Etfhhhhl9Em5",
     "name": "QTV-4",
     "iptv_urls": [
@@ -307,17 +307,6 @@
     "name": "QTV-5",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -562,7 +551,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5GKaphRcDbo"
+      "https://www.youtube-nocookie.com/embed/rrsBQtY8Q4Q"
     ],
     "language": "zho",
     "country": "cn",
@@ -668,17 +657,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TT80T0Uhd4YSQT",
-    "name": "浙江新闻",
-    "iptv_urls": [
-      "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGN51eNb7kGHRy",
     "name": "浙江民生",
     "iptv_urls": [
@@ -771,6 +749,28 @@
     "name": "红牛REDBULL TV",
     "iptv_urls": [
       "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HGBni7wKrtguXm",
+    "name": "萧山新闻综合",
+    "iptv_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hlJLT7eqdRNqcv",
+    "name": "蕭山生活頻道",
+    "iptv_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

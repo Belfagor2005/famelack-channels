@@ -388,7 +388,8 @@
     "nanoid": "g3vaXRs7MKcSOW",
     "name": "iFilm Persian",
     "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilmfa.m3u8"
+      "https://live.presstv.ir/hls/ifilmfa.m3u8",
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -555,17 +556,6 @@
     "name": "Kordestan",
     "iptv_urls": [
       "https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cS5WWc43jjdjbz",
-    "name": "Lenz Animation",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
