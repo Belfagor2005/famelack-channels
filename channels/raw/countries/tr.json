@@ -179,14 +179,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UBjqGDOceqJLt2",
-    "name": "ATV",
+    "nanoid": "nMakM6G0sKUXTn",
+    "name": "ATV Avrupa",
     "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+      "https://streamer2.nexgen.bz/ATV/index.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
-    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -218,7 +216,7 @@
     "name": "BENGÜTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fji8YN-EKFM"
+      "https://www.youtube-nocookie.com/embed/5xeZ5ELEj2c"
     ],
     "language": "tur",
     "country": "tr",
@@ -503,6 +501,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C1zMWQcgRfpuVK",
+    "name": "ETV Manisa",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "08vFfPl2upbXA4",
     "name": "Euro D",
     "iptv_urls": [
@@ -531,6 +540,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pdyq7lixkPI"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qgqjKHkHjQzR2F",
+    "name": "Finans Turk TV",
+    "iptv_urls": [
+      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -688,7 +708,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XWu____vPcY"
+      "https://www.youtube-nocookie.com/embed/t-RDDhEm9L8"
     ],
     "language": "tur",
     "country": "tr",
@@ -832,6 +852,17 @@
     "name": "Kanal Firat",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hGtWqYE7XonF37",
+    "name": "Kanal Hayat",
+    "iptv_urls": [
+      "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1038,17 +1069,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lm6hIGSOHhNu9y",
-    "name": "MTürk TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WfBeWY1RnvDWYZ",
     "name": "Muhteşem Yüzyıl",
     "iptv_urls": [],
@@ -1141,6 +1161,17 @@
     "name": "On4 TV",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vlixqABLRnnfK4",
+    "name": "Öncü TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1577,17 +1608,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bgn8mfchHatjpX",
-    "name": "TV 52",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "iptv_urls": [
@@ -1665,17 +1685,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TKQbSmFlgXq83c",
-    "name": "Urfa Natik TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qnwd5ncRKNfKu1",
     "name": "ÜÜ TV Üsküdar Üniversitesi TV",
     "iptv_urls": [
@@ -1704,7 +1713,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3o5inKCyWPU"
+      "https://www.youtube-nocookie.com/embed/MeNN6Nym0kM"
     ],
     "language": "tur",
     "country": "tr",

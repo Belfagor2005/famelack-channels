@@ -182,7 +182,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/znxDeW3LFbs"
+      "https://www.youtube-nocookie.com/embed/NtC5L2eNa00"
     ],
     "language": "por",
     "country": "br",
@@ -376,6 +376,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j2PNx5Xg25mTJj",
+    "name": "KpopTV Play",
+    "iptv_urls": [
+      "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NxqeGIVjUY8tcI",
     "name": "Loading",
     "iptv_urls": [
@@ -435,7 +446,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fkvUzqee2i8"
+      "https://www.youtube-nocookie.com/embed/acpMxUrCLV4"
     ],
     "language": "por",
     "country": "br",
@@ -494,7 +505,7 @@
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MyRKzPNUOVM"
+      "https://www.youtube-nocookie.com/embed/ngaSc4gfLGc"
     ],
     "language": "por",
     "country": "br",
@@ -562,17 +573,6 @@
       "https://acesso.ecast.site:3648/live/ritlive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ODhN2PSjLcQ"
-    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -655,6 +655,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tlMRtrczD2xa0E",
+    "name": "TCM 10 HD",
+    "iptv_urls": [
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uFUnpsEwjM0TgY",
     "name": "TV A Folha",
     "iptv_urls": [
@@ -723,11 +734,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pP6SnedE0hiHpP",
+    "name": "TV Arapuan",
+    "iptv_urls": [
+      "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qIar6axvqjptwG",
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/furMr1nEJOA"
+      "https://www.youtube-nocookie.com/embed/b14oI6AYCbY"
     ],
     "language": "por",
     "country": "br",
@@ -756,10 +778,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fKBN1GktoY4Pyo",
-    "name": "TV Brasil Central",
+    "nanoid": "2bhXPviPJO5yGg",
+    "name": "TV Brasil Oeste",
     "iptv_urls": [
-      "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8"
+      "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1075,6 +1097,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9Z6UmtBHKa0451",
+    "name": "TV Notícia",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/COEC2DMMpyc"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dcIkvJvyHx3mhL",
     "name": "TV Padre Cicero",
     "iptv_urls": [
@@ -1112,17 +1145,6 @@
     "name": "TV Passo Fundo",
     "iptv_urls": [
       "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rREG7vaT91drEA",
-    "name": "TV Plan",
-    "iptv_urls": [
-      "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1213,6 +1235,17 @@
       "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Apy4C6DTjAR2zf",
+    "name": "TV Tambaú",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/o11RuJMwh7M"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false

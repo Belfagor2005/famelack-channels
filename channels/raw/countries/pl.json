@@ -144,6 +144,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YVXMNDK2rpUCOO",
+    "name": "dlaCiebie.tv",
+    "iptv_urls": [
+      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "iptv_urls": [
@@ -192,7 +203,7 @@
     "name": "HORYZONT TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/L_D0sKrW8-c"
+      "https://www.youtube-nocookie.com/embed/ixEFVDIVKAU"
     ],
     "language": "pol",
     "country": "pl",
@@ -375,17 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BspbtOXUQOA"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zfbee02Fm1Nqwi",
     "name": "Telewizja Jaslo",
     "iptv_urls": [
@@ -456,7 +456,7 @@
     "name": "Telewizja Zabrze",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g9TW9dj0Ce4"
+      "https://www.youtube-nocookie.com/embed/f5njIX-Y31U"
     ],
     "language": "pol",
     "country": "pl",
@@ -513,17 +513,6 @@
       "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2SfhuUEazfjthW",
-    "name": "TV Relax",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iJ8NW9ri_Yc"
-    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -679,7 +668,7 @@
     "name": "ZTV live",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3MLkh7UOte0"
+      "https://www.youtube-nocookie.com/embed/TbdPsyG8vpg"
     ],
     "language": "pol",
     "country": "pl",

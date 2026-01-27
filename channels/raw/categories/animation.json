@@ -213,7 +213,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fjuFe75Tjnw"
+      "https://www.youtube-nocookie.com/embed/oD7B68MfFfQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -423,7 +423,7 @@
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5kPwGzc7-zM"
+      "https://www.youtube-nocookie.com/embed/nfQ5J0dk5V8"
     ],
     "language": "eng",
     "country": "uk",
@@ -500,7 +500,7 @@
     "name": "TokuSHOUTsu: Speed Racer",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FwbF20MSW_w"
+      "https://www.youtube-nocookie.com/embed/4PI10WPMpuk"
     ],
     "language": "eng",
     "country": "us",
@@ -587,6 +587,7 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
       "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],

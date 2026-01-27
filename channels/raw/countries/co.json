@@ -102,6 +102,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5GEVv3vX7BnAy7",
+    "name": "Canal Mundo Visión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
+      "https://video.ejeserver.com/live/mundovisiontv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QA1x5OQRH7UVPJ",
     "name": "Canal Nets",
     "iptv_urls": [
@@ -173,7 +185,7 @@
     "name": "CityTv",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DmI8rPNN-Qw"
+      "https://www.youtube-nocookie.com/embed/mJ0y59mwJOU"
     ],
     "language": "spa",
     "country": "co",
@@ -274,17 +286,6 @@
     "name": "Kalu TV",
     "iptv_urls": [
       "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wzR0TNYEFfuhVq",
-    "name": "La Hermandad Salsera",
-    "iptv_urls": [
-      "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -503,6 +504,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "iptv_urls": [
@@ -521,17 +533,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BTUtiIKXJH39q3",
-    "name": "TeveColombia",
-    "iptv_urls": [
-      "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "co",
     "isGeoBlocked": false
   },

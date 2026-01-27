@@ -1,27 +1,5 @@
 [
   {
-    "nanoid": "HQpbprNXlsncEg",
-    "name": "7 STORIA",
-    "iptv_urls": [
-      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "a2vebKp6rSzqyQ",
-    "name": "30A Loomered TV",
-    "iptv_urls": [
-      "https://30a-tv.com/loomer.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tn94bXCcZQXp4I",
     "name": "Al Arabiya Programs",
     "iptv_urls": [
@@ -37,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2ttnszMpFCE"
+      "https://www.youtube-nocookie.com/embed/Gdn2ah6juP4"
     ],
     "language": "jpn",
     "country": "jp",
@@ -238,6 +216,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nFh3xqtwlLRiFW",
+    "name": "Ecovisión",
+    "iptv_urls": [
+      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
     "iptv_urls": [
@@ -361,6 +350,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6X04TK6XI9Sv6c",
+    "name": "National Geographic Latin America",
+    "iptv_urls": [
+      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AbcJxYxf3cyf3H",
     "name": "NatureTime",
     "iptv_urls": [
@@ -383,17 +383,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -402,18 +391,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0mulGVhtSW9kDC",
-    "name": "RT Documentary Russian",
-    "iptv_urls": [
-      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
-      "https://streaming.thestream.cyou/live/554.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -488,6 +465,17 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

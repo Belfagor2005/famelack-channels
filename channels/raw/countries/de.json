@@ -572,6 +572,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KWubgLKIN9lBtR",
+    "name": "Handystar",
+    "iptv_urls": [
+      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9akXuoxRiw2xMb",
     "name": "Hell's Kitchen Germany",
     "iptv_urls": [
@@ -841,17 +852,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nSKKagLIpNXooQ",
-    "name": "Naruto Germany",
-    "iptv_urls": [
-      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z6guN3S2lbqSQy",
     "name": "NDR Fernsehen International",
     "iptv_urls": [
@@ -942,6 +942,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JMBqVoy25nEXh6",
+    "name": "Noa 4 Hamburg",
+    "iptv_urls": [
+      "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YxHL1LhWQRdskl",
+    "name": "Noa 4 Norderstedt",
+    "iptv_urls": [
+      "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
     "iptv_urls": [
@@ -1000,8 +1022,7 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1046,7 +1067,7 @@
     "name": "Pearl TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QJO77JijahY"
+      "https://www.youtube-nocookie.com/embed/7edPeO-8Rs0"
     ],
     "language": "deu",
     "country": "de",

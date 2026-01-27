@@ -376,6 +376,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SKa00HUMq3PcNP",
+    "name": "BFM Toulon Var",
+    "iptv_urls": [
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "su9d0YBQVTBx5Z",
     "name": "BFM TV",
     "iptv_urls": [
@@ -1277,17 +1288,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G4MF2teF38UV6O",
-    "name": "Paramount Channel",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rD66Oim1zZv8fD",
     "name": "Persiana Comedy",
     "iptv_urls": [
@@ -1688,8 +1688,7 @@
     "nanoid": "NZ0M4Z47C2ZcVG",
     "name": "Sony One Favoris",
     "iptv_urls": [
-      "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
-      "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8"
+      "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

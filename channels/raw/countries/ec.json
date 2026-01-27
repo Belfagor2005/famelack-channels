@@ -242,10 +242,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2m0gEtXYdWeCIN",
-    "name": "Infinita TV",
+    "nanoid": "7JtXS4icmdPuca",
+    "name": "Imperio TV Canal 6",
     "iptv_urls": [
-      "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+      "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -253,10 +253,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ClCRN0leNua6OR",
-    "name": "KCH TV",
+    "nanoid": "2m0gEtXYdWeCIN",
+    "name": "Infinita TV",
     "iptv_urls": [
-      "https://www.kchtv.com/stream/hls/stream.m3u8"
+      "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -279,6 +279,17 @@
     "name": "La Perla Radio TV",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8068/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6sh2TBEF2ZIvFo",
+    "name": "Latacunga TV",
+    "iptv_urls": [
+      "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -407,17 +418,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GTfEbP4G445UTc",
-    "name": "Pantalla Clásica EC",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "if95kHJ4URww0a",
     "name": "PJ Digital Radio TV",
     "iptv_urls": [
@@ -433,6 +433,17 @@
     "name": "Plus TV",
     "iptv_urls": [
       "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQP21gjr5nH5Wg",
+    "name": "Puruwa TV",
+    "iptv_urls": [
+      "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -473,17 +484,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PZkl1QNtloGB1B",
-    "name": "Radio Impacto 2",
-    "iptv_urls": [
-      "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpaipzMOWMjyyR",
     "name": "Radio Monumental TV",
     "iptv_urls": [
@@ -510,17 +510,6 @@
     "name": "RTRTV",
     "iptv_urls": [
       "https://tv3ecuador.site/hls/stream/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Vw6NdTRGURL25",
-    "name": "RTU",
-    "iptv_urls": [
-      "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -583,17 +572,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CY38SV2i5DFUTV",
-    "name": "TV Cisne",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/tvcisne/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7rCpyg4PCpPsco",
     "name": "TV Color Canal 36",
     "iptv_urls": [
@@ -609,6 +587,17 @@
     "name": "TV Universal Ecuador",
     "iptv_urls": [
       "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OlaokC4Os8hK8W",
+    "name": "UEBI TV Online",
+    "iptv_urls": [
+      "https://ventaxtv.com:3575/live/uebilive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

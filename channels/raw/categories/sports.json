@@ -47,6 +47,7 @@
     "nanoid": "v9zxgiBZu0T9zY",
     "name": "ACCDN",
     "iptv_urls": [
+      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -107,6 +108,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pHGRN6No5y3yuk",
+    "name": "Alkass Three",
+    "iptv_urls": [
+      "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "qa",
     "isGeoBlocked": false
   },
   {
@@ -195,6 +207,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEtgYgEtHzj5Ic",
+    "name": "ColimdoT TV",
+    "iptv_urls": [
+      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -314,7 +337,7 @@
     "name": "FOX Sports YT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7VHtqVx9Z_w"
+      "https://www.youtube-nocookie.com/embed/sq9aTWdr93Y"
     ],
     "language": "eng",
     "country": "us",
@@ -459,7 +482,7 @@
     "name": "ItalianFishingTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n9fe9cLiTi8"
+      "https://www.youtube-nocookie.com/embed/AW2I1N5PRxU"
     ],
     "language": "ita",
     "country": "it",
@@ -610,6 +633,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Da460ZcoL5SJKT",
+    "name": "Multivisión Sports",
+    "iptv_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "iptv_urls": [
@@ -745,17 +779,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RlDh4IHVR4WpZw",
-    "name": "QazSport",
-    "iptv_urls": [
-      "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kaz",
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7TX9VjMY1i891b",
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
@@ -786,6 +809,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
+    "iptv_urls": [
+      "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1027,6 +1061,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lX8llbHeMkmnOY",
+    "name": "TVR Sport",
+    "iptv_urls": [
+      "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
     "isGeoBlocked": false
   },
   {

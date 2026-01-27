@@ -398,6 +398,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XZICcsILzbo"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Bzkq4_ss0Mg"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DIYFiR27hwM7Fq",
     "name": "Dios Te Ve Kids",
     "iptv_urls": [
@@ -701,7 +723,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/J10pBNCAaVw"
+      "https://www.youtube-nocookie.com/embed/-PO6gnKiCho"
     ],
     "language": "urd",
     "country": "pk",
@@ -883,6 +905,17 @@
     ],
     "language": "eng",
     "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FeQiCZUhzv3lT3",
+    "name": "Moonbug Kids",
+    "iptv_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1088,7 +1121,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fkvUzqee2i8"
+      "https://www.youtube-nocookie.com/embed/acpMxUrCLV4"
     ],
     "language": "por",
     "country": "br",
@@ -1250,22 +1283,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3C5tAme4Sy2gIV",
-    "name": "Super Simple: Bedtime Songs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eJSXmaM3KYA"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GdyuPfPjDfUi5s",
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dZARYIIvDes"
+      "https://www.youtube-nocookie.com/embed/389ElpKnobw"
     ],
     "language": "eng",
     "country": "ca",
@@ -1276,7 +1298,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3r7yigOdJ30"
+      "https://www.youtube-nocookie.com/embed/xpttWoTLXGE"
     ],
     "language": "eng",
     "country": "ca",
@@ -1477,7 +1499,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3o5inKCyWPU"
+      "https://www.youtube-nocookie.com/embed/MeNN6Nym0kM"
     ],
     "language": "tur",
     "country": "tr",
@@ -1499,7 +1521,18 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QHoWm5DHoUw"
+      "https://www.youtube-nocookie.com/embed/myzZycqgRvI"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "at7QYcug7oV0tu",
+    "name": "WildBrain Max: LEGO",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Aw5gfjoO3W4"
     ],
     "language": "eng",
     "country": "uk",
@@ -1619,6 +1652,7 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
       "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
@@ -1687,7 +1721,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5GKaphRcDbo"
+      "https://www.youtube-nocookie.com/embed/6vgj4ltawJw"
     ],
     "language": "zho",
     "country": "cn",

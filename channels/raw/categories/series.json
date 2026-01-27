@@ -211,6 +211,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "COFZbnjrkjQq8b",
     "name": "Duck Dynasty",
     "iptv_urls": [
@@ -434,17 +445,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GTfEbP4G445UTc",
-    "name": "Pantalla Clásica EC",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EqniGxixO4xx8t",
     "name": "PBS Antiques Roadshow",
     "iptv_urls": [
@@ -531,17 +531,6 @@
       "https://www.youtube-nocookie.com/embed/i-qxb1dxZ1A"
     ],
     "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6B09VgzP1u7pf6",
-    "name": "Shout! Studios: Renegade",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uXC-5FV5MkM"
-    ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -750,6 +739,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
