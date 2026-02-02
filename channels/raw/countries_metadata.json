@@ -489,7 +489,7 @@
     "country": "Gambia",
     "capital": "Banjul",
     "timeZone": "Africa/Banjul",
-    "hasChannels": true
+    "hasChannels": false
   },
   "GN": {
     "country": "Guinea",
@@ -687,7 +687,7 @@
     "country": "North Korea",
     "capital": "Pyongyang",
     "timeZone": "Asia/Pyongyang",
-    "hasChannels": false
+    "hasChannels": true
   },
   "KR": {
     "country": "South Korea",
@@ -843,7 +843,7 @@
     "country": "Macau",
     "capital": "Macau",
     "timeZone": "Asia/Macau",
-    "hasChannels": true
+    "hasChannels": false
   },
   "MP": {
     "country": "Northern Mariana Islands",

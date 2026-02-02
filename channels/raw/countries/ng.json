@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bH0xAdzXSreOQz",
-    "name": "Approval TV",
-    "iptv_urls": [
-      "https://live.approvaltv.com/approvaltv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MP4bBMx7wAtF5b",
     "name": "Arise News",
     "iptv_urls": [],
@@ -203,7 +192,7 @@
     "name": "News Central TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G-g6DO1U5Yw"
+      "https://www.youtube-nocookie.com/embed/w9EN7W38HiE"
     ],
     "language": "eng",
     "country": "ng",
@@ -298,6 +287,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mQsEQa26uw8XEM",
+    "name": "TrustTV News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-xUqMXfntPM"
+    ],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mKY4tfy2nJF9FI",
     "name": "TVC News",
     "iptv_urls": [
@@ -344,6 +344,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xqNDe2nURDi4zM",
+    "name": "Wazobia Max TV Abuja",
+    "iptv_urls": [
+      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XBCn7LG1vDEDMn",
     "name": "Wazobia Max TV Nigeria",
     "iptv_urls": [
@@ -359,17 +370,6 @@
     "name": "Wazobia Max TV Port Harcourt",
     "iptv_urls": [
       "https://wazobia.live:8333/channel/wmaxph.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "roS6e38nLtSy8d",
-    "name": "Whole Word TV",
-    "iptv_urls": [
-      "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

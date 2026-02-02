@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4OE4ZIp6ZfzmtV",
-    "name": "Audaz TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YWNPX9f8P0Trxq",
     "name": "BTA TV",
     "iptv_urls": [
@@ -92,6 +81,17 @@
     "name": "GlobalTV",
     "iptv_urls": [
       "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -154,10 +154,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QfjrYuWRCRpUp7",
-    "name": "Más Talk",
+    "nanoid": "JdxBGAz4N8XmqU",
+    "name": "LGD Television",
     "iptv_urls": [
-      "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
+      "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -165,10 +165,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
+    "nanoid": "QfjrYuWRCRpUp7",
+    "name": "Más Talk",
     "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
+      "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -379,17 +379,6 @@
     "name": "TRV",
     "iptv_urls": [
       "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z9rhVuP0JaTo3P",
-    "name": "TV FANB",
-    "iptv_urls": [
-      "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

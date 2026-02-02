@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fruS79xWb73ha2",
+    "name": "Barney the Dinosaur",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RdHibWPpZSU"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qeGibjiweoCaEb",
     "name": "BBC Four/CBeebies",
     "iptv_urls": [
@@ -375,6 +386,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DdiVuOolojZUS0",
+    "name": "MCN6 Music Channel",
+    "iptv_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "iptv_urls": [],
@@ -419,6 +441,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "73nv1GppLgBbPp",
+    "name": "Shaun the Sheep & Friends",
+    "iptv_urls": [
+      "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Kfvf3u3DJLtcM5",
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],
@@ -445,7 +478,7 @@
     "name": "Soviet Toons: Ну, погоди!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BjDstUignmU"
+      "https://www.youtube-nocookie.com/embed/g-EfxLjV9WI"
     ],
     "language": "rus",
     "country": "uk",
@@ -500,7 +533,7 @@
     "name": "TokuSHOUTsu: Speed Racer",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4PI10WPMpuk"
+      "https://www.youtube-nocookie.com/embed/pvN_aoc2wCg"
     ],
     "language": "eng",
     "country": "us",

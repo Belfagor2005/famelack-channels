@@ -311,6 +311,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "iptv_urls": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "iptv_urls": [
@@ -499,17 +510,6 @@
     "name": "Filstalwelle",
     "iptv_urls": [
       "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JUHY7ZFUwE8O9n",
-    "name": "Finest TV",
-    "iptv_urls": [
-      "https://media.finest.tv/hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -706,17 +706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cPhZXwV890M"
-    ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "iptv_urls": [
@@ -756,6 +745,17 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "iptv_urls": [
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -841,6 +841,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1vBPSqBW9LaA0Z",
+    "name": "MyTime Movie Network Germany",
+    "iptv_urls": [
+      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sUPjf9t1EEmdsB",
     "name": "n-tv",
     "iptv_urls": [
@@ -848,6 +859,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nSKKagLIpNXooQ",
+    "name": "Naruto Germany",
+    "iptv_urls": [
+      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1022,7 +1044,8 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1426,17 +1449,6 @@
     ],
     "youtube_urls": [],
     "language": "fra",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VAXyuQmSe3glBx",
-    "name": "Sportdigital FUSSBALL HD",
-    "iptv_urls": [
-      "https://d162h6qqsk8wvl.cloudfront.net/8c880c40-991d-4253-aae9-754f1ed050ce/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1845,6 +1857,17 @@
     "name": "World of Freesports",
     "iptv_urls": [
       "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MTSj2olhZiM1t9",
+    "name": "XITE",
+    "iptv_urls": [
+      "https://xite-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYPaX2UVL5PBUV",
-    "name": "13 Humor",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "At9xDVwnRJnJwN",
     "name": "13 Kids",
     "iptv_urls": [
@@ -176,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u8n0weM2Dro"
-    ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eoeb9ldORywfM0",
     "name": "CHV Noticias",
     "iptv_urls": [],
@@ -253,17 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fho666tDNHtuPI",
-    "name": "EnerGeek Fan",
-    "iptv_urls": [
-      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ratiMYbPjlz1Pp",
     "name": "EnerGeek Radio",
     "iptv_urls": [
@@ -279,17 +246,6 @@
     "name": "Girovisual",
     "iptv_urls": [
       "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k8mitUmGi9GKFi",
-    "name": "Hiperconectados TV",
-    "iptv_urls": [
-      "https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -356,7 +312,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ziuGe4jkHdg"
+      "https://www.youtube-nocookie.com/embed/18ob_bJVWLI"
     ],
     "language": "spa",
     "country": "cl",
@@ -513,6 +469,17 @@
     "name": "Teletrak",
     "iptv_urls": [
       "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v7CKSlcO8gjGok",
+    "name": "Televida",
+    "iptv_urls": [
+      "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

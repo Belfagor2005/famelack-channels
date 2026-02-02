@@ -22,6 +22,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rtbi6hxyaPNSIn",
+    "name": "1001 Noites",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ugGAivxJyE8GHx",
+    "name": "AAC Television",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Gzk4nIsS8lA"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4ekttMMc8433us",
     "name": "Bajo Techo TV",
     "iptv_urls": [
@@ -37,7 +59,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yj1CVHxeUiI"
+      "https://www.youtube-nocookie.com/embed/A5nz2-Q0rwY"
     ],
     "language": "ukr",
     "country": "ua",
@@ -70,21 +92,10 @@
     "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d5bd8akfN_U"
+      "https://www.youtube-nocookie.com/embed/p6Vb0PySgfM"
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/78PFqFGaOK0"
-    ],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -687,7 +698,7 @@
     "name": "QVC UK Main",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UYK2TgbryIQ"
+      "https://www.youtube-nocookie.com/embed/Cx0GAM7cW2I"
     ],
     "language": "eng",
     "country": "uk",
@@ -799,7 +810,7 @@
     "name": "SHOP CH Thailand",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uswjIZPVIjg"
+      "https://www.youtube-nocookie.com/embed/aTiBLKBze-Q"
     ],
     "language": "tha",
     "country": "th",
@@ -918,7 +929,7 @@
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EKKVDTerjeE"
+      "https://www.youtube-nocookie.com/embed/ysq4OP9BZgU"
     ],
     "language": "eng",
     "country": "au",
@@ -966,6 +977,17 @@
     "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WqD_BIzno7M"
+    ],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

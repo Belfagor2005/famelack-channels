@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8Bv8hcX2tNuzZb",
+    "name": "Antena Uno RadioVideo",
+    "iptv_urls": [
+      "https://tvdatta.com:3578/live/antenaunolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "iptv_urls": [
@@ -242,32 +253,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7JtXS4icmdPuca",
-    "name": "Imperio TV Canal 6",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2m0gEtXYdWeCIN",
     "name": "Infinita TV",
     "iptv_urls": [
       "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BQiZCJpf4JlMdt",
-    "name": "La Nueva Radio TV 97.7",
-    "iptv_urls": [
-      "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -301,17 +290,6 @@
     "name": "Loreto TV",
     "iptv_urls": [
       "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Sp6sHwr9vDmxjt",
-    "name": "Mágica Tv",
-    "iptv_urls": [
-      "https://magicatv.4pu.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -407,32 +385,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRZplckRTbzRYe",
-    "name": "Oromar TV",
-    "iptv_urls": [
-      "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "if95kHJ4URww0a",
     "name": "PJ Digital Radio TV",
     "iptv_urls": [
       "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xWGjAVSP39eb8X",
-    "name": "Plus TV",
-    "iptv_urls": [
-      "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -477,6 +433,17 @@
     "name": "Radio Cuenca Estéreo",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8074/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PZkl1QNtloGB1B",
+    "name": "Radio Impacto 2",
+    "iptv_urls": [
+      "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -572,6 +539,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CY38SV2i5DFUTV",
+    "name": "TV Cisne",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/tvcisne/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7rCpyg4PCpPsco",
     "name": "TV Color Canal 36",
     "iptv_urls": [
@@ -587,17 +565,6 @@
     "name": "TV Universal Ecuador",
     "iptv_urls": [
       "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OlaokC4Os8hK8W",
-    "name": "UEBI TV Online",
-    "iptv_urls": [
-      "https://ventaxtv.com:3575/live/uebilive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -143,22 +143,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZUiCxfI2YHTlLz",
-    "name": "Shout! Studios: Elvira's Movie Macabre",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RbzswG4Qg_A"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ckOe6Tf2kvWSZr",
     "name": "Shout! Studios: Godzilla",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gedyhyb459c"
+      "https://www.youtube-nocookie.com/embed/_2U3fdkKzTs"
     ],
     "language": "eng",
     "country": "us",
@@ -170,17 +159,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/74z71sIh2wg"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fYdwb5ywlM6LyP",
-    "name": "Shout! Studios: The Little Rascals",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5yiXtYVvnv8"
     ],
     "language": "eng",
     "country": "us",

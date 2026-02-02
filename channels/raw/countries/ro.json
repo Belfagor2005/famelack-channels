@@ -275,17 +275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oihBZjU4iojgJW",
-    "name": "Metropola TV",
-    "iptv_urls": [
-      "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "iptv_urls": [
@@ -308,10 +297,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wAAXdhWFrvqJmH",
-    "name": "Mooz Dance",
+    "nanoid": "HXUJ0Y6Fs5W3Ui",
+    "name": "Mooz Hits",
     "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
+      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2U91fowazsObgI",
+    "name": "Mooz Ro!",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -433,7 +433,7 @@
     "name": "TRINITAS TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bFt377daJYE"
+      "https://www.youtube-nocookie.com/embed/d5LnctJulAE"
     ],
     "language": "ron",
     "country": "ro",
@@ -506,44 +506,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AgdBh1G6zjQQ1P",
-    "name": "TVR Cultural",
-    "iptv_urls": [
-      "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pZ7DVIEngrRQGF",
-    "name": "TVR Folclor",
-    "iptv_urls": [
-      "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b5160000.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QmyDk7u02PWKpA",
-    "name": "TVR Info",
-    "iptv_urls": [
-      "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "otbytoTxWQ2OOt",
     "name": "TVR International",
     "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8",
-      "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8"
+      "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -555,6 +521,17 @@
     "name": "TVR Sport",
     "iptv_urls": [
       "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZDopo4R7djDObF",
+    "name": "TVR Targu-Mures",
+    "iptv_urls": [
+      "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -577,7 +554,7 @@
     "name": "Z-TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bBXcxc0huIw"
+      "https://www.youtube-nocookie.com/embed/CNH_YlGzXZA"
     ],
     "language": "ron",
     "country": "ro",

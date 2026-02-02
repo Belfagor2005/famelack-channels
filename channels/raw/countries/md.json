@@ -64,5 +64,16 @@
     "language": "ron",
     "country": "md",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNw3JhkAal07LE",
+    "name": "TVR Moldova HD",
+    "iptv_urls": [
+      "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "md",
+    "isGeoBlocked": false
   }
 ]

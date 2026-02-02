@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ZOwQAPUGPgS297",
-    "name": "4DmásNoticias TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JAreuKNijuO7ug",
     "name": "Bruno Masi TV",
     "iptv_urls": [
@@ -26,17 +15,6 @@
     "name": "Cáritas TV",
     "iptv_urls": [
       "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BZ9ohjnwvpwyuR",
-    "name": "Cosmos TV",
-    "iptv_urls": [
-      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -88,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ksZqh8hqVd6zjZ",
-    "name": "MiTV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mKiiX9v0iS1lOZ",
     "name": "Next HD",
     "iptv_urls": [
@@ -110,10 +77,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZvkiWYEeuwp6wf",
-    "name": "Suceso TV",
+    "nanoid": "yjn0fCt96jnweK",
+    "name": "República TV",
     "iptv_urls": [
-      "https://live.enhdtv.com:8081/8060/index.m3u8"
+      "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

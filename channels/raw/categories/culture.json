@@ -47,19 +47,8 @@
     "nanoid": "lk0uWzuq5z3huX",
     "name": "Afro Magic Channel",
     "iptv_urls": [
-      "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8",
-      "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
+      "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+      "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -210,28 +199,6 @@
     ],
     "language": "spa",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DnEqNUdycNeHRJ",
-    "name": "Çiftçi TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -442,17 +409,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "iptv_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o8GJhpgQxXREN1",
     "name": "Geb Tv (KBPX LD5)",
     "iptv_urls": [
@@ -483,17 +439,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WknJSHyVxUbWNW",
-    "name": "HarPal Geo",
-    "iptv_urls": [
-      "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -597,17 +542,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MFBhdF22oHPsQx",
-    "name": "Komala TV",
-    "iptv_urls": [
-      "https://live.tvkomala.com/live/komala/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "se",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wlRG0aqJ5L1mdG",
     "name": "KTV 2",
     "iptv_urls": [
@@ -674,6 +608,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xx7eina1wOQhnp",
+    "name": "MCN6 Arts Channel",
+    "iptv_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "q666a4s6CEkDLb",
     "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
     "iptv_urls": [
@@ -715,28 +660,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5kYv876l5SB1BL",
-    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G3z1qWfpSyIFVO",
-    "name": "Nei Monggol TV Agriculture & Animal Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -784,6 +707,17 @@
     "youtube_urls": [],
     "language": "ori",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J5GYuBAaffsbX6",
+    "name": "Ofogh",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1030,17 +964,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AgdBh1G6zjQQ1P",
-    "name": "TVR Cultural",
-    "iptv_urls": [
-      "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wOuKcaJXWEMKNa",
     "name": "UCL",
     "iptv_urls": [
@@ -1074,17 +997,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7UeLUueVRqvHR1",
-    "name": "UNISUL TV",
-    "iptv_urls": [
-      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "iptv_urls": [
@@ -1093,6 +1005,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ye",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7IG6c8BLRlAZXA",
+    "name": "Беларусь 3",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
     "isGeoBlocked": false
   },
   {

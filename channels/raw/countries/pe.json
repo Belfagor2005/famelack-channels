@@ -143,10 +143,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XzRqOxUzNRtPhH",
+    "name": "ECO Television",
+    "iptv_urls": [
+      "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M8nsyNmz1k1pVX",
     "name": "Exitosa TV",
     "iptv_urls": [
-      "https://luna-3-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
+      "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -231,17 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgK3gN33Rh7QOj",
-    "name": "Miel TV",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JEOHsH5ZsjmOK3",
     "name": "Milenial TV",
     "iptv_urls": [
@@ -268,17 +268,6 @@
     "name": "Nativa",
     "iptv_urls": [
       "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mi7Zl9xYkTcqpw",
-    "name": "Nativa TV Satipo",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -397,17 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wbr6x2NZ3c23qF",
-    "name": "Señal Perú TV",
-    "iptv_urls": [
-      "https://livestream.perucast.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NWQzBG1ASDZW7k",
     "name": "Sol Televisión",
     "iptv_urls": [
@@ -423,6 +401,17 @@
     "name": "Telecolor Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/telecolormux/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wmJ1QxQIvPF4LM",
+    "name": "Teleselva",
+    "iptv_urls": [
+      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -456,17 +445,6 @@
     "name": "Turbo Mix Radio TV",
     "iptv_urls": [
       "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kzdXF1h7tKZGcP",
-    "name": "TV Cosmos",
-    "iptv_urls": [
-      "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -511,7 +489,7 @@
     "name": "TVLibertad ",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TZE6tnK9WME"
+      "https://www.youtube-nocookie.com/embed/qLE0I6jJtw4"
     ],
     "language": "spa",
     "country": "pe",
@@ -588,17 +566,6 @@
     "name": "Viva TV Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/vivatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sAN5lqkNeMhvi8",
-    "name": "VNP",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

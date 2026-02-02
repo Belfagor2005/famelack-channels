@@ -228,7 +228,7 @@
     "name": "Bluey - Español Canal Oficial",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Cyr9vwWrJ74"
+      "https://www.youtube-nocookie.com/embed/ItJSLtn5gT4"
     ],
     "language": "spa",
     "country": "es",
@@ -383,6 +383,17 @@
     "name": "Canal Diocesano",
     "iptv_urls": [
       "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fSeqRheB6IOZIg",
+    "name": "Canal Doñana",
+    "iptv_urls": [
+      "https://secure5.todostreaming.es/live/division-alm.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -613,17 +624,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hgsplzEIrAMQff",
-    "name": "Durangaldeko Telebista",
-    "iptv_urls": [
-      "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eus",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h9xUZ9qtOT3ejC",
     "name": "El 33 Originals",
     "iptv_urls": [
@@ -779,6 +779,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pVAUDpY02IzoVj",
+    "name": "Goiena Eus",
+    "iptv_urls": [
+      "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GZWR4WKfwfXc9w",
     "name": "Gol Classics",
     "iptv_urls": [
@@ -848,7 +859,19 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -929,6 +952,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m1LaVg3IHystk9",
+    "name": "Love The Planet",
+    "iptv_urls": [
+      "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1058,6 +1092,17 @@
     "name": "Onda Valencia",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r4O5xUGbFguCQr",
+    "name": "Pequeradio",
+    "iptv_urls": [
+      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1318,6 +1363,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hfwTzzqbXODdPh",
+    "name": "Rakuten TV Family Movies Finland",
+    "iptv_urls": [
+      "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "47gMxXtvKDDhIZ",
     "name": "Rakuten TV Family Movies Germany",
     "iptv_urls": [
@@ -1358,6 +1414,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d9geI4ATc8cBPs",
+    "name": "Rakuten TV Nordic Films",
+    "iptv_urls": [
+      "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1465,17 +1532,6 @@
     "name": "Ribera TV",
     "iptv_urls": [
       "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LAxYlfGvF61ICE",
-    "name": "Rioja Televisión",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1806,10 +1862,10 @@
     "nanoid": "70kNFzzOa9jQON",
     "name": "TVE Star HD",
     "iptv_urls": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1817,10 +1873,10 @@
     "nanoid": "70kNFzzOa9jQON",
     "name": "TVE Star HD",
     "iptv_urls": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1865,6 +1921,17 @@
     ],
     "youtube_urls": [],
     "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2uGXU96QMW7Acl",
+    "name": "Univers TV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

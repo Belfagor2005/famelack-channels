@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KstfcDMjN0CcgR",
+    "name": "Bendicion Channel",
+    "iptv_urls": [
+      "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qb63KGtBMhm9Xj",
     "name": "BUM Televisión",
     "iptv_urls": [
@@ -170,17 +181,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y6DIrrNamySBRa",
-    "name": "Caracol Televisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/r3ApAhHiJcE"
-    ],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e29jn80x7K7M0D",
     "name": "CityTv",
     "iptv_urls": [],
@@ -197,6 +197,17 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/cncbuga.m3u8",
       "https://video.ejeserver.com/live/cncbuga.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jFEWRPe45fuS69",
+    "name": "CNC Chocó",
+    "iptv_urls": [
+      "https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -286,6 +297,17 @@
     "name": "Kalu TV",
     "iptv_urls": [
       "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wzR0TNYEFfuhVq",
+    "name": "La Hermandad Salsera",
+    "iptv_urls": [
+      "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -448,17 +470,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "neqGyX9Rfbl2Yl",
-    "name": "RTC Televisión Urabá",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RV4q1AzygKEv9i",
     "name": "Salsa Gorda Television",
     "iptv_urls": [
@@ -504,17 +515,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "iptv_urls": [
@@ -533,6 +533,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BTUtiIKXJH39q3",
+    "name": "TeveColombia",
+    "iptv_urls": [
+      "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "co",
     "isGeoBlocked": false
   },
@@ -585,17 +596,6 @@
     "name": "Ultra Casanare TV",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8072/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lOEoXHnp8Sj0dx",
-    "name": "UMC TV",
-    "iptv_urls": [
-      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

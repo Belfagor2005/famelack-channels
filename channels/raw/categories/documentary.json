@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gdn2ah6juP4"
+      "https://www.youtube-nocookie.com/embed/pP4nt-CYFcw"
     ],
     "language": "jpn",
     "country": "jp",
@@ -317,6 +317,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "m1LaVg3IHystk9",
+    "name": "Love The Planet",
+    "iptv_urls": [
+      "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2IhVNnNGaDMY0V",
     "name": "MagellanTV Now",
     "iptv_urls": [
@@ -350,17 +361,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6X04TK6XI9Sv6c",
-    "name": "National Geographic Latin America",
-    "iptv_urls": [
-      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AbcJxYxf3cyf3H",
     "name": "NatureTime",
     "iptv_urls": [
@@ -369,6 +369,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5dGASmS4TNjspn",
+    "name": "O'zbekiston Tarixi",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
     "isGeoBlocked": false
   },
   {
@@ -383,6 +394,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "iptv_urls": [
+      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -391,6 +413,18 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0mulGVhtSW9kDC",
+    "name": "RT Documentary Russian",
+    "iptv_urls": [
+      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "https://streaming.thestream.cyou/live/554.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -465,17 +499,6 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
