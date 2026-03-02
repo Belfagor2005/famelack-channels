@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H0fTRstAnfWOk3",
-    "name": "Avers",
-    "iptv_urls": [
-      "https://avers.pp.ua/hls/efir.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
@@ -88,6 +77,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WoGHZ2NiobEniJ",
+    "name": "Izmail TV",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tw81DnoVlplmdm",
     "name": "M2",
     "iptv_urls": [
@@ -132,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KNtnaXZuhjC6uj",
+    "name": "TIS TV",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t4HZl9R8oxsSaq",
     "name": "TV Rivne 1",
     "iptv_urls": [
@@ -147,9 +169,9 @@
     "name": "TVA",
     "iptv_urls": [
       "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
       "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
+      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -164,6 +186,17 @@
     ],
     "youtube_urls": [],
     "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8guglX3waEEweH",
+    "name": "Луганск 24",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -196,6 +229,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/SIRlElzXDTk"
     ],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aWkEDmohDUdyQY",
+    "name": "Сфера-ТВ",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false

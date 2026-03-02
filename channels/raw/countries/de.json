@@ -166,28 +166,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TidiMBUKgHqdwZ",
-    "name": "Bibel TV Impuls",
-    "iptv_urls": [
-      "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yHOMIT6YTjFRD3",
-    "name": "Bibel TV Musik",
-    "iptv_urls": [
-      "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QHfB2HaDRgtHoK",
     "name": "Chemnitz Fernsehen",
     "iptv_urls": [
@@ -235,7 +213,7 @@
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
     "iptv_urls": [
-      "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8"
+      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -389,17 +367,6 @@
       "https://www.youtube-nocookie.com/embed/gP7872YRFDk"
     ],
     "language": "rus",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VVcQY1hOdMpI1U",
-    "name": "EchtJetzt TV",
-    "iptv_urls": [
-      "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -708,6 +675,17 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "iptv_urls": [
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1059,10 +1037,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SMFkP3zTr5LosF",
+    "name": "Rakuten TV German Cinema",
+    "iptv_urls": [
+      "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gaIbE0ft11ifJV",
     "name": "Rakuten TV Romance Movies Germany",
     "iptv_urls": [
       "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

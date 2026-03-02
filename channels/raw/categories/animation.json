@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dS38RFG3Xj3JOv",
+    "name": "CONtv: Yu-Gi-Oh! (Deutsch)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nh-BmjbuzvQ"
+    ],
+    "language": "deu",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5uaACATXkoGQ0l",
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "iptv_urls": [],
@@ -287,17 +298,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1ov4rKCt7xdyVW",
-    "name": "Japanim TV",
-    "iptv_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6uP6CNEGYjRRQY",
     "name": "Kanade",
     "iptv_urls": [
@@ -309,6 +309,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KFX8r91Rf69oJB",
+    "name": "Kapitan Bomba",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bgbUqi3cUi8"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
     "iptv_urls": [
@@ -317,17 +328,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KLWMJ2wTlLOXbG",
-    "name": "Magic Kids",
-    "iptv_urls": [
-      "https://magicstream.ddns.net/magicstream/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -375,17 +375,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B7oUuXqbWsfBhP",
-    "name": "OGGY",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dYGEtRvdxIo"
-    ],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YQjVrcxLsl4KlI",
     "name": "Pingvīns",
     "iptv_urls": [
@@ -405,6 +394,17 @@
     ],
     "language": "por",
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oubeKLPS2AIZdf",
+    "name": "Pro100TV",
+    "iptv_urls": [
+      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

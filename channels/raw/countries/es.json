@@ -44,10 +44,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9CUTsrF7PNhBjT",
-    "name": "4K TRAVEL TV",
+    "nanoid": "bvlSaREPWvRbiw",
+    "name": "7 TeleValencia",
     "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=-W-Hab4e1BO"
+      "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -55,10 +55,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bvlSaREPWvRbiw",
-    "name": "7 TeleValencia",
+    "nanoid": "mIBXDjfzsNrIT3",
+    "name": "12TV Alicante",
     "iptv_urls": [
-      "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
+      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -356,17 +357,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fSeqRheB6IOZIg",
-    "name": "Canal Doñana",
-    "iptv_urls": [
-      "https://secure5.todostreaming.es/live/division-alm.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTfUhDJ1psN0TH",
     "name": "Canal Extremadura Satelite",
     "iptv_urls": [
@@ -624,17 +614,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IgIhtSlDnhWcsL",
-    "name": "El Futuro En tu Mano",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/v-bfXaQcIKA"
-    ],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "iptv_urls": [
@@ -650,18 +629,6 @@
     "name": "Empordà TV",
     "iptv_urls": [
       "https://video3.lhdserver.es/empordatv2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
@@ -687,6 +654,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mCiVfIGYDaqE2r",
+    "name": "EsTuTele",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -757,6 +735,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HwhpJMBxrNJdLl",
+    "name": "Guada TV",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -794,28 +783,6 @@
     "name": "Interalmeria TV",
     "iptv_urls": [
       "https://interalmeria.tv/directo/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "254O8QVRoi3Ec6",
-    "name": "La 2",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -906,7 +873,7 @@
       "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1047,6 +1014,17 @@
     "name": "Onda Valencia",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1219,17 +1197,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3rUfGzY2t9RJC4",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "iptv_urls": [
-      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lpsuXeysMRBpVO",
     "name": "Rakuten TV Comedy Movies Spain",
     "iptv_urls": [
@@ -1303,17 +1270,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tofHYJp7SflK4T",
-    "name": "Rakuten TV Drama Movies UK",
-    "iptv_urls": [
-      "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1659,6 +1615,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYmpRnITzqWFJm",
+    "name": "Televisión Aranda",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RlnmDgh5EEksVR",
     "name": "TELEVISIÓN Canaria",
     "iptv_urls": [],
@@ -1751,7 +1718,8 @@
     "nanoid": "41ap4CgxZB4KsE",
     "name": "TVE Star",
     "iptv_urls": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8"
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1763,17 +1731,6 @@
     "name": "TVE Star HD",
     "iptv_urls": [
       "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "70kNFzzOa9jQON",
-    "name": "TVE Star HD",
-    "iptv_urls": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1810,17 +1767,6 @@
     ],
     "youtube_urls": [],
     "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2uGXU96QMW7Acl",
-    "name": "Univers TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

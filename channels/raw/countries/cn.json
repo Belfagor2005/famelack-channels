@@ -187,17 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f1nxbKF3lgdEIT",
-    "name": "Harbin Comprehensive News Channel",
-    "iptv_urls": [
-      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DmRj3yhamAblyQ",
     "name": "Hunan TV",
     "iptv_urls": [
@@ -246,6 +235,17 @@
     "name": "QTV-4",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1by9GcHy62iZ4M",
+    "name": "QTV-5",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -489,7 +489,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2YK_gURwZ2U"
+      "https://www.youtube-nocookie.com/embed/FMYhVUq3JCo"
     ],
     "language": "zho",
     "country": "cn",
@@ -511,17 +511,6 @@
     "name": "广东 Ⅰ 韶关公共台",
     "iptv_urls": [
       "https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OV9fgTIJjuEnHm",
-    "name": "延边新闻综合",
-    "iptv_urls": [
-      "https://stream2.jlntv.cn/jlyb/sd/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -558,28 +547,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
-    "iptv_urls": [
-      "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LkJ7FCk2BbuXtL",
-    "name": "浙江卫视",
-    "iptv_urls": [
-      "https://play-qukan.cztv.com/live/1758879019692345.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -661,10 +628,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j1PKhARZuXsXE7",
-    "name": "福州广播电视台新闻综合频道 (FZTV-1)",
+    "nanoid": "uf8i2ptAW9zep4",
+    "name": "白山新闻综合",
     "iptv_urls": [
-      "https://live.zohi.tv/video/s10001-fztv-1/index.m3u8"
+      "https://stream2.jlntv.cn/baishan1/sd/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

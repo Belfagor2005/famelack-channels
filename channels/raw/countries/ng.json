@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "VpnuhazqcUGfL9",
+    "name": "ACNN",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "iptv_urls": [
@@ -276,6 +287,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mQsEQa26uw8XEM",
+    "name": "TrustTV News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9KliQspJvqU"
+    ],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Iz3l4KLYDLXwEs",
     "name": "TVC News",
     "iptv_urls": [],
@@ -320,10 +342,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Uu8JpSpXEkB3Wk",
-    "name": "Wazobia Max TV Port Harcourt",
+    "nanoid": "xqNDe2nURDi4zM",
+    "name": "Wazobia Max TV Abuja",
     "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmaxph.m3u8"
+      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

@@ -22,21 +22,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q8uSXguJs8fawT",
-    "name": "Apna Punjab",
-    "iptv_urls": [
-      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -48,17 +38,6 @@
     "name": "Az Star TV",
     "iptv_urls": [
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "aze",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fk7J0TscZFyNKW",
-    "name": "Azstar TV",
-    "iptv_urls": [
-      "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "aze",
@@ -438,17 +417,7 @@
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RxJmNkclMKaXs2",
-    "name": "Legislative Assembly of Ontario (without interpretation)",
-    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
       "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -715,21 +684,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sMtLcZJ0VSsWq6",
-    "name": "Stingray Classic Rock",
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
+    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5t53vL5oPCm3CM",
-    "name": "Stingray Classica",
+    "nanoid": "sMtLcZJ0VSsWq6",
+    "name": "Stingray Classic Rock",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1136,18 +1105,8 @@
     "nanoid": "26wbYyZD2WNH5P",
     "name": "TV Punjab",
     "iptv_urls": [
+      "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
       "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=FKWvIiyQPz8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "26wbYyZD2WNH5P",
-    "name": "TV Punjab",
-    "iptv_urls": [
-      "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "pan",
@@ -1162,17 +1121,6 @@
       "https://www.youtube-nocookie.com/embed/dCQBjhUKxcg"
     ],
     "language": "fra",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7MJcYnhqkdKmZp",
-    "name": "Watan-e-Maa TV",
-    "iptv_urls": [
-      "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "prd",
     "country": "ca",
     "isGeoBlocked": false
   },

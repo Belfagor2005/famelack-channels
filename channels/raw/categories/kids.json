@@ -566,17 +566,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1ov4rKCt7xdyVW",
-    "name": "Japanim TV",
-    "iptv_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "iptv_urls": [],
@@ -721,17 +710,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K7IkXUJctZQhM2",
-    "name": "Majid",
-    "iptv_urls": [
-      "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DdiVuOolojZUS0",
     "name": "MCN6 Music Channel",
     "iptv_urls": [
@@ -762,6 +740,17 @@
     ],
     "language": "zho",
     "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lfrIvAovke3yk8",
+    "name": "Moomin Official",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_Xcbrwyg1X8"
+    ],
+    "language": "eng",
+    "country": "fi",
     "isGeoBlocked": false
   },
   {
@@ -934,7 +923,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e4HMsnyKUko"
+      "https://www.youtube-nocookie.com/embed/Jsvg3ygANnU"
     ],
     "language": "por",
     "country": "br",
@@ -1110,7 +1099,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fcpXvG8cD1Y"
+      "https://www.youtube-nocookie.com/embed/MLkIlzg2nUM"
     ],
     "language": "eng",
     "country": "us",
@@ -1216,6 +1205,28 @@
     ],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bqJWjkuxMfJzes",
+    "name": "Totally Spies!: Season 1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TBpoDiZvR6k"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lvFwkInvbE9sJ0",
+    "name": "Totally Spies!: Season 2",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-NotILEspVg"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1458,7 +1469,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2YK_gURwZ2U"
+      "https://www.youtube-nocookie.com/embed/FMYhVUq3JCo"
     ],
     "language": "zho",
     "country": "cn",

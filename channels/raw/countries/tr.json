@@ -124,17 +124,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rmMtzdNASgScoo",
-    "name": "Alqanat9 TV",
-    "iptv_urls": [
-      "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yL3s4jwp0ivExp",
     "name": "Anadolu Net TV",
     "iptv_urls": [
@@ -612,7 +601,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VlcLWSzmLac"
+      "https://www.youtube-nocookie.com/embed/L1BrIDsbwHI"
     ],
     "language": "tur",
     "country": "tr",
@@ -949,10 +938,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fEdPdOM5VlxlUw",
-    "name": "Power Dance",
+    "nanoid": "GXwsRpuPDXxjJu",
+    "name": "Olay Türk TV Kayseri",
     "iptv_urls": [
-      "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -960,10 +949,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XNTHGJZeFfDgvw",
-    "name": "Power Love",
+    "nanoid": "fEdPdOM5VlxlUw",
+    "name": "Power Dance",
     "iptv_urls": [
-      "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+      "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1109,6 +1098,17 @@
     "name": "Tele 1",
     "iptv_urls": [
       "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rqkOBR323x5UjG",
+    "name": "Tempo TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
