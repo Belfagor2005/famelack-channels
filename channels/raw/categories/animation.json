@@ -419,6 +419,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YQjVrcxLsl4KlI",
+    "name": "Pingvīns",
+    "iptv_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "lav",
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yzZp6BhMvaS7qt",
     "name": "PJ Masks Brasil",
     "iptv_urls": [],
@@ -430,6 +441,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oubeKLPS2AIZdf",
+    "name": "Pro100TV",
+    "iptv_urls": [
+      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Br53BhiHjkS3op",
     "name": "RetroCrush",
     "iptv_urls": [
@@ -438,17 +460,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "73nv1GppLgBbPp",
-    "name": "Shaun the Sheep & Friends",
-    "iptv_urls": [
-      "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -577,7 +588,7 @@
     "name": "Universal Jr: Team Mekbots",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yYF32pvBSXQ"
+      "https://www.youtube-nocookie.com/embed/AhKDBe6gctw"
     ],
     "language": "eng",
     "country": "us",
@@ -614,6 +625,18 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gJChs4RXWcqghm",
+    "name": "Мультимания",
+    "iptv_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

@@ -55,18 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mIBXDjfzsNrIT3",
-    "name": "12TV Alicante",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
-      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gt9j6xLi0290D1",
     "name": "24 Horas",
     "iptv_urls": [
@@ -636,29 +624,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w8nJcI9HkWg8Yr",
-    "name": "Empordà TV",
-    "iptv_urls": [
-      "https://video3.lhdserver.es/empordatv2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ev5jam8gTwJugh",
     "name": "Estepona Televisión",
     "iptv_urls": [
@@ -1044,6 +1009,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r4O5xUGbFguCQr",
     "name": "Pequeradio",
     "iptv_urls": [
@@ -1154,6 +1130,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "akUnyMZyexeI3L",
+    "name": "Rakuten TV Action Movies Spain",
+    "iptv_urls": [
+      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pegM9YYgQxLOsZ",
     "name": "Rakuten TV Action Movies UK",
     "iptv_urls": [
@@ -1216,17 +1203,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "t7k18gf1UBscLd",
-    "name": "Rakuten TV Comedy Movies UK",
-    "iptv_urls": [
-      "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1308,17 +1284,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "47gMxXtvKDDhIZ",
-    "name": "Rakuten TV Family Movies Germany",
-    "iptv_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GM8ISh0gwWKywf",
     "name": "Rakuten TV Family Movies Italy",
     "iptv_urls": [
@@ -1396,17 +1361,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EXiybwWxfkY3Zj",
-    "name": "Rakuten TV Top Movies Finland",
-    "iptv_urls": [
-      "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d85uJsQx5ZxBLM",
     "name": "Rakuten TV Top Movies Germany",
     "iptv_urls": [
@@ -1414,6 +1368,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iJhK4ZfrskifqI",
+    "name": "Rakuten TV Top Movies Italy",
+    "iptv_urls": [
+      "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1671,8 +1636,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
+    "nanoid": "yAvkQDCoQRxCiQ",
+    "name": "Trece TV",
     "iptv_urls": [
       "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
     ],

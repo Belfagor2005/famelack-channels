@@ -4,7 +4,7 @@
     "name": "Česko-Slovenská regionálna televízia",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WXM6ZxR2OJw"
+      "https://www.youtube-nocookie.com/embed/ehoObTRKY1A"
     ],
     "language": "slk",
     "country": "sk",
@@ -103,7 +103,6 @@
     "nanoid": "NePDHatqqYOqTp",
     "name": "TV Central",
     "iptv_urls": [
-      "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
       "https://dash4.antik.sk/live/test_central/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -149,7 +148,7 @@
     "name": "TV Nitra",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/E80teNk0c9o"
+      "https://www.youtube-nocookie.com/embed/hiCs4PrsMz8"
     ],
     "language": "slk",
     "country": "sk",

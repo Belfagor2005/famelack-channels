@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "m1fqGkSb3kQ4GK",
-    "name": "Ciracu TV",
-    "iptv_urls": [
-      "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3Jn82QaxkNUvY1",
     "name": "Clic TV",
     "iptv_urls": [
@@ -220,6 +209,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BQiZCJpf4JlMdt",
+    "name": "La Nueva Radio TV 97.7",
+    "iptv_urls": [
+      "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L7QnCoaelggBZN",
     "name": "La Perla Radio TV",
     "iptv_urls": [
@@ -345,6 +345,17 @@
     "name": "Ondas Quevedeñas TV",
     "iptv_urls": [
       "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRZplckRTbzRYe",
+    "name": "Oromar TV",
+    "iptv_urls": [
+      "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -543,17 +554,6 @@
     "name": "UNIANDES TV",
     "iptv_urls": [
       "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9TUqw93GWA6FwZ",
-    "name": "Vos y TV",
-    "iptv_urls": [
-      "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

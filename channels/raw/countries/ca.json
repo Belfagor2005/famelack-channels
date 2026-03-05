@@ -25,7 +25,8 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -245,17 +246,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N7y193rYKVUHc8",
     "name": "GTN Canada (1080i)",
     "iptv_urls": [
@@ -438,6 +428,7 @@
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
       "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -475,6 +466,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1118,6 +1120,17 @@
     ],
     "youtube_urls": [],
     "language": "pan",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bXKVlszQEGdoup",
+    "name": "TV Témis",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/mzfVGoHwvxM"
+    ],
+    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },

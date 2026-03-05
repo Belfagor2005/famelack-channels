@@ -33,10 +33,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0fe1ozGC5qVsh",
-    "name": "Canal 1",
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
     "iptv_urls": [
-      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -44,10 +45,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cN6rSKGfOi3ha",
-    "name": "Canal 3 KMK TV",
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -165,17 +166,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TkyCEIMqFLsTQ",
     "name": "IQ Channel",
     "iptv_urls": [
@@ -202,7 +192,7 @@
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xpM_cob2PwU"
+      "https://www.youtube-nocookie.com/embed/uK1oes1u5no"
     ],
     "language": "spa",
     "country": "cr",
@@ -367,6 +357,28 @@
     "name": "Urbano TV",
     "iptv_urls": [
       "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lyisHWGyNS2hyW",
+    "name": "VoiceOver Radio TV",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CLjMxTVbFP2ZHP",
+    "name": "Zurquí TV",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

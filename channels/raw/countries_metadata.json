@@ -489,7 +489,7 @@
     "country": "Gambia",
     "capital": "Banjul",
     "timeZone": "Africa/Banjul",
-    "hasChannels": false
+    "hasChannels": true
   },
   "GN": {
     "country": "Guinea",
@@ -1239,7 +1239,7 @@
     "country": "Chad",
     "capital": "N'Djamena",
     "timeZone": "Africa/Ndjamena",
-    "hasChannels": true
+    "hasChannels": false
   },
   "TF": {
     "country": "French Southern Territories",

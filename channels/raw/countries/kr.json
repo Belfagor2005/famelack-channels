@@ -386,56 +386,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fU7mUMEnsqINVT",
-    "name": "MBC Chuncheon (춘천 MBC)",
-    "iptv_urls": [
-      "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KfP1wxKWGNerV7",
-    "name": "MBC Daegu (대구 MBC)",
-    "iptv_urls": [
-      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CVYe8DrHATgn7K",
-    "name": "MBC Daejeon (대전 MBC)",
-    "iptv_urls": [
-      "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jvEnH2enN4Ahyj",
     "name": "MBC News",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/q9bM12ucTIY"
     ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "znJBZTlOJRrNOH",
-    "name": "MBC Yeosu (여수 MBC)",
-    "iptv_urls": [
-      "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -485,17 +441,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "iptv_urls": [
@@ -511,19 +456,8 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O6g8arsQ95o"
+      "https://www.youtube-nocookie.com/embed/gCXd_ylgniQ"
     ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HOw52hxLJ6meLM",
-    "name": "SBS KBC",
-    "iptv_urls": [
-      "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -621,7 +555,7 @@
     "name": "TVCHOSUN JOY",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zVHY8x3YhXw"
+      "https://www.youtube-nocookie.com/embed/Pb8PbUkx-pY"
     ],
     "language": "kor",
     "country": "kr",

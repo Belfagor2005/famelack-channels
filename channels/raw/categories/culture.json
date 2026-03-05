@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "qrJk7Z0w2ndHZn",
-    "name": "13C",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pNO1A2SnOPsV3y",
     "name": "AABC TV",
     "iptv_urls": [
@@ -75,6 +64,17 @@
     "youtube_urls": [],
     "language": "ltz",
     "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -191,17 +191,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
     "iptv_urls": [
@@ -212,17 +201,6 @@
     ],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m1fqGkSb3kQ4GK",
-    "name": "Ciracu TV",
-    "iptv_urls": [
-      "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -265,6 +243,7 @@
     "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
     "iptv_urls": [
+      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
     ],
     "youtube_urls": [
@@ -297,12 +276,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FCckxA9xKjRmBd",
+    "nanoid": "5VAqVtAJLz9Qp2",
     "name": "DD Urdu",
-    "iptv_urls": [
-      "https://cdn-4.pishow.tv/live/8/master.m3u8",
-      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i--xfotJs7w"
     ],
@@ -976,17 +952,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p4obNYU8nK7E4h",
-    "name": "TVE RS",
-    "iptv_urls": [
-      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AgdBh1G6zjQQ1P",
     "name": "TVR Cultural",
     "iptv_urls": [
@@ -1028,17 +993,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7UeLUueVRqvHR1",
-    "name": "UNISUL TV",
-    "iptv_urls": [
-      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {

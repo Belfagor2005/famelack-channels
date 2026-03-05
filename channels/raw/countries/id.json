@@ -78,17 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KOhwshxakg9PIS",
-    "name": "Banjar TV",
-    "iptv_urls": [
-      "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oc19gUQD1UBDsM",
     "name": "Banten TV",
     "iptv_urls": [
@@ -288,10 +277,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Hae4Rh59QFhZLW",
+    "name": "I Am Channel",
+    "iptv_urls": [
+      "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4XTEtIon4adh6d",
     "name": "Indonesiana.TV",
     "iptv_urls": [
       "https://tvstreamcast.com/indonesiana.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8iA6YqzUKduT8p",
+    "name": "Inspira TV",
+    "iptv_urls": [
+      "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PrY3cdQrd2HZ4H",
+    "name": "Jakarta Globe News Channel",
+    "iptv_urls": [
+      "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -310,10 +332,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
+    "nanoid": "oSWD42bHwHKlIE",
+    "name": "Jogja TV",
     "iptv_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -376,6 +398,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ImH0HN1MdNlCn0",
+    "name": "Madu TV",
+    "iptv_urls": [
+      "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ayjkn7ZDTaMfjh",
     "name": "Magna Channel",
     "iptv_urls": [
@@ -387,12 +420,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IEPlNXmktkk"
+    "nanoid": "6Oy6l4nSQLXeVV",
+    "name": "Matrix TV Yogyakarta",
+    "iptv_urls": [
+      "https://stream.matrixtv.id/hls/0/stream.m3u8"
     ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -585,6 +618,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4XHmhUHFvR9eAr",
+    "name": "RRI Net",
+    "iptv_urls": [
+      "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "upoBRy2lldcmNK",
     "name": "Sakti TV",
     "iptv_urls": [
@@ -630,6 +674,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4WttbEI2P66IMh",
+    "name": "Sangaji TV",
+    "iptv_urls": [
+      "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2XkFMpRoLYu9Ma",
     "name": "Selaparang TV",
     "iptv_urls": [
@@ -645,7 +700,7 @@
     "name": "Serambinews",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OtMJRPD_DnY"
+      "https://www.youtube-nocookie.com/embed/ONJhq-QPbS0"
     ],
     "language": "ind",
     "country": "id",
@@ -674,17 +729,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3tK786c3qywsHt",
-    "name": "Stara TV",
-    "iptv_urls": [
-      "https://stream.staratv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ig8Heof5b0HbF8",
     "name": "Stara TV Bandung",
     "iptv_urls": [
@@ -700,17 +744,6 @@
     "name": "Stara TV Cianjur",
     "iptv_urls": [
       "https://cianjur.staratv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2p68S1VfZNBPKr",
-    "name": "Stara TV Malang",
-    "iptv_urls": [
-      "https://malang.staratv.id/hls/0/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -862,32 +895,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sN4o2leEYvu2mV",
-    "name": "TVRI Bangka Belitung",
-    "iptv_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wl58rN1gU5bK4Q",
     "name": "TVRI Bengkulu",
     "iptv_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4rgiWj82tXQkHf",
-    "name": "TVRI Gorontalo",
-    "iptv_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -1181,17 +1192,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UM1CVLiIjzrIdV",
-    "name": "TVRI Yogyakarta",
-    "iptv_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g5xZd9yme6tjFT",
     "name": "U Channel",
     "iptv_urls": [
@@ -1209,6 +1209,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/U07ButY35So"
     ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SlDXX35NImvk2c",
+    "name": "UGTV",
+    "iptv_urls": [
+      "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false

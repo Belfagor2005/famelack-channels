@@ -110,32 +110,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XIT46ZkepuHyd7",
-    "name": "MTV Sub",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/sub/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ymyzvymgU1533k",
     "name": "MTV Uutiset",
     "iptv_urls": [
       "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sJ0IwCxQ3PFQw5",
-    "name": "MTV3",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/mtv3/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "fin",
@@ -198,17 +176,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDWW7TL07yMVj8",
-    "name": "STAR Channel (Finland)",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/star-channel/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5kldbIEO7owMXN",
     "name": "Taevas TV7",
     "iptv_urls": [
@@ -231,13 +198,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3kvMeRQNc7yJgV",
-    "name": "World of Love Island",
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
     "iptv_urls": [
-      "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "fin",
     "country": "fi",
     "isGeoBlocked": false
   },

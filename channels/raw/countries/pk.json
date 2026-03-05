@@ -59,7 +59,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bWEvos2Twms"
+      "https://www.youtube-nocookie.com/embed/SwCNT1fCqv4"
     ],
     "language": "sd",
     "country": "pk",
@@ -425,7 +425,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ycUrRX5pEv0"
+      "https://www.youtube-nocookie.com/embed/PKcp2gaM8qc"
     ],
     "language": "urd",
     "country": "pk",
@@ -495,6 +495,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cY2xwz2R3RaEd2",
+    "name": "Sindh TV News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8MbzxxCRXjo"
+    ],
+    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },

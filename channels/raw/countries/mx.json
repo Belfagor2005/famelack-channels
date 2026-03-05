@@ -66,28 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6SQhQn74t89lq",
-    "name": "B15 Fresnillo",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9BZEZK4EYJz8lC",
-    "name": "B15 Zacatecas",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "z9NmlAa4TNcIbD",
     "name": "BAMOS TV",
     "iptv_urls": [
@@ -347,7 +325,7 @@
     "name": "Imagen Multicast",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M0BbmzCkE5s"
+      "https://www.youtube-nocookie.com/embed/k100kp_UM0E"
     ],
     "language": "spa",
     "country": "mx",
@@ -358,7 +336,7 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1PDkbo5BJPg"
+      "https://www.youtube-nocookie.com/embed/gq2qubu13q0"
     ],
     "language": "spa",
     "country": "mx",
@@ -442,11 +420,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4i2dbm12cF2ARa",
+    "name": "Nayarit Comunica",
+    "iptv_urls": [
+      "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pCFfnKm8W8E1LH",
     "name": "NMás",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3T5QJlFJNZE"
+      "https://www.youtube-nocookie.com/embed/cNAuq5ll4Is"
     ],
     "language": "spa",
     "country": "mx",
@@ -597,17 +586,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "inKpcU1CFpY4af",
-    "name": "SIPSE TV 8.1",
-    "iptv_urls": [
-      "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bqZG2nHHXJFyOO",
     "name": "SIPSE TVCUN 8.1",
     "iptv_urls": [
@@ -667,6 +645,28 @@
     "name": "Tele Saltillo",
     "iptv_urls": [
       "https://servilive.com:3879/live/telesaltillolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
+    "iptv_urls": [
+      "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "arUwONnDyiIo6o",
+    "name": "Tele Yucatan",
+    "iptv_urls": [
+      "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -763,11 +763,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZvTqK9RkV2bYWz",
+    "name": "Televisa Mexicali",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VXd2WXuAs2M"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OqUk1Slt9fsdYN",
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ECCe5GqACvU"
+      "https://www.youtube-nocookie.com/embed/QWRMjGsm-j8"
     ],
     "language": "spa",
     "country": "mx",
@@ -778,7 +789,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/priy2MyrXdY"
+      "https://www.youtube-nocookie.com/embed/rPTZvatG5SI"
     ],
     "language": "spa",
     "country": "mx",
@@ -877,7 +888,7 @@
     "name": "Televisa Zacatecas",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iSeUrFGuLWs"
+      "https://www.youtube-nocookie.com/embed/ZOgpnzICVXw"
     ],
     "language": "spa",
     "country": "mx",
