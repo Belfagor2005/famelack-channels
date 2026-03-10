@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2muybC4Eb4sLrh",
-    "name": "ATV Argentina",
-    "iptv_urls": [
-      "https://tv.streaming.com.bo/atvargentina/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zZzdEeu5sohNZw",
     "name": "Azahares Radio Multimedia",
     "iptv_urls": [
@@ -268,6 +257,17 @@
     "name": "Canal 7 Jujuy",
     "iptv_urls": [
       "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UFI1aabxRmg31y",
+    "name": "Canal 7 Neuquén",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -490,17 +490,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tZLaG8MHkNY9P0",
-    "name": "Canal Santa María",
-    "iptv_urls": [
-      "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vUd9BZTcBgBOm3",
     "name": "Catamarca TV",
     "iptv_urls": [
@@ -527,6 +516,17 @@
     "name": "Chaco TV",
     "iptv_urls": [
       "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "njewIOEi3Bzjbb",
+    "name": "Chilecito TV",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -593,7 +593,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Q9OKX6Hlfe0"
+      "https://www.youtube-nocookie.com/embed/oksbzHygIwo"
     ],
     "language": "spa",
     "country": "ar",
@@ -660,7 +660,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w7wfOnForKw"
+      "https://www.youtube-nocookie.com/embed/i-h6Z30a0O4"
     ],
     "language": "spa",
     "country": "ar",
@@ -888,6 +888,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pOLw0wjFkchEX1",
+    "name": "TeleCinco Trelew",
+    "iptv_urls": [
+      "https://videohd.live:19360/8016/8016.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Go5SKBRSJ9PYYw",
     "name": "Telediario Digital",
     "iptv_urls": [],
@@ -1036,7 +1047,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/X_d61r0fh8U"
+      "https://www.youtube-nocookie.com/embed/3pjr888xDw8"
     ],
     "language": "spa",
     "country": "ar",

@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4ekttMMc8433us",
+    "name": "Bajo Techo TV",
+    "iptv_urls": [
+      "https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
@@ -81,7 +92,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qfaGhDx86_U"
+      "https://www.youtube-nocookie.com/embed/0gMGB45psvs"
     ],
     "language": "eng",
     "country": "uk",
@@ -162,6 +173,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k9Z5raN5ubTZep",
+    "name": "Gems TV",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -787,7 +809,7 @@
     "name": "SHOP CH Thailand",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LkVHGMe8xIE"
+      "https://www.youtube-nocookie.com/embed/0mgmIEb2EBQ"
     ],
     "language": "tha",
     "country": "th",

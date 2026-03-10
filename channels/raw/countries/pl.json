@@ -56,17 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgdcsAoxUBnS3U",
-    "name": "BTB HD",
-    "iptv_urls": [
-      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "iptv_urls": [
@@ -221,11 +210,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lgqzeQFxqCN8jW",
+    "name": "NewTV",
+    "iptv_urls": [
+      "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+      "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "iptv_urls": [
-      "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
-      "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
+      "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -446,7 +446,7 @@
     "name": "Telewizja Zabrze",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f5njIX-Y31U"
+      "https://www.youtube-nocookie.com/embed/jao8urGYmuA"
     ],
     "language": "pol",
     "country": "pl",
@@ -504,6 +504,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zm99zgCQP8EGKf",
+    "name": "Top Movies Polska",
+    "iptv_urls": [
+      "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },

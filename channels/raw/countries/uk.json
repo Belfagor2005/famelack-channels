@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SCCSu7TMHcxg2h",
+    "name": "Akaal Channel",
+    "iptv_urls": [
+      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "iptv_urls": [
@@ -307,17 +318,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "upZUS4jnd1EPJG",
-    "name": "Chelsea Football Club",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TyiE65_zAVc"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K1Rki2QXOUbCd5",
     "name": "Classic Mr Bean",
     "iptv_urls": [],
@@ -355,7 +355,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qfaGhDx86_U"
+      "https://www.youtube-nocookie.com/embed/0gMGB45psvs"
     ],
     "language": "eng",
     "country": "uk",
@@ -496,6 +496,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k9Z5raN5ubTZep",
+    "name": "Gems TV",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aZ7OPQQXDiuZF3",
     "name": "GREAT! movies",
     "iptv_urls": [
@@ -569,6 +580,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f4STSe9tgyRVf3",
+    "name": "Hobby Maker",
+    "iptv_urls": [
+      "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -708,17 +730,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mlJPw3ECDsvDmO",
-    "name": "MovieSphere",
-    "iptv_urls": [
-      "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },

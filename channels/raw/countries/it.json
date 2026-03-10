@@ -495,17 +495,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "R8E994mqmmDshs",
     "name": "Italian Fishing TV",
     "iptv_urls": [
@@ -696,17 +685,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vep0J58HudEoW3",
-    "name": "Odeon 24",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "02hgQBIaeAN9gz",
     "name": "Onda Novara TV",
     "iptv_urls": [
@@ -762,10 +740,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
+    "nanoid": "Zsxyrl1EjMDxBi",
+    "name": "Prima TV Sicilia",
     "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
+      "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -773,32 +751,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
+    "nanoid": "HW1EftjiVNuA3s",
+    "name": "PrimaFree",
     "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Zsxyrl1EjMDxBi",
-    "name": "Prima TV Sicilia",
-    "iptv_urls": [
-      "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+      "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -834,17 +790,6 @@
       "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IB19NO8mheWDOa",
-    "name": "QSVS: Milanow",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kUQchiAOuCs"
-    ],
     "language": "ita",
     "country": "it",
     "isGeoBlocked": false

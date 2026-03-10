@@ -198,6 +198,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "auc0jMNpvasOnO",
+    "name": "Meridiano TV",
+    "iptv_urls": [
+      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cUYxQqIrjcxxmY",
     "name": "Norteña TV",
     "iptv_urls": [
@@ -390,17 +401,6 @@
     "name": "TV Oasis Monay",
     "iptv_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XdOMLij5yy08uC",
-    "name": "TVM para ti",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

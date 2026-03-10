@@ -210,6 +210,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HUxeirBEJ9XVlF",
+    "name": "News Central",
+    "iptv_urls": [
+      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "iptv_urls": [],
@@ -302,7 +313,7 @@
     "name": "TrustTV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7YCxlCBSgJY"
+      "https://www.youtube-nocookie.com/embed/7jd-oNH3qys"
     ],
     "language": "eng",
     "country": "ng",
@@ -335,17 +346,6 @@
     "name": "Wap TV",
     "iptv_urls": [
       "https://newproxy3.vidivu.tv/waptv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xqNDe2nURDi4zM",
-    "name": "Wazobia Max TV Abuja",
-    "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

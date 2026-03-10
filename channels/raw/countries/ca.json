@@ -25,8 +25,7 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -41,17 +40,6 @@
     ],
     "youtube_urls": [],
     "language": "aze",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/au_oN1yFaiA"
-    ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -260,7 +248,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4F4GZ8IZo4U"
+      "https://www.youtube-nocookie.com/embed/kjqtB3VJN5k"
     ],
     "language": "eng",
     "country": "ca",
@@ -297,6 +285,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pb2kJOQ71503Nc",
+    "name": "Hamdard TV",
+    "iptv_urls": [
+      "https://tv.hamdardtv.com/hamdard/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -895,7 +894,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WDPrDMPZeCo"
+      "https://www.youtube-nocookie.com/embed/v6rOYWHeLhI"
     ],
     "language": "eng",
     "country": "ca",
@@ -906,7 +905,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MlNi7w3Njdg"
+      "https://www.youtube-nocookie.com/embed/FY54NCjJi3A"
     ],
     "language": "eng",
     "country": "ca",
@@ -917,20 +916,9 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PMZ25SXeizA"
+      "https://www.youtube-nocookie.com/embed/mmpWSUk9XgU"
     ],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CE3h0ZjZw7sSVW",
-    "name": "Tamil Entertainment Television",
-    "iptv_urls": [
-      "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1074,17 +1062,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KCwFLWdyJegcPw",
-    "name": "Zee TV Canada",
-    "iptv_urls": [
-      "https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
     "country": "ca",
     "isGeoBlocked": false
   }

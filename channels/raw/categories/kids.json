@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AeG4E88wj1aN3z",
-    "name": "Afarin TV",
-    "iptv_urls": [
-      "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mtvxflwldN4QsH",
     "name": "Aghapy Kids",
     "iptv_urls": [
@@ -343,17 +332,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dc4FxqftW4YwtA",
-    "name": "Clan",
-    "iptv_urls": [
-      "https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sOkPOE7WwRFhIL",
     "name": "Clan Internacional Americas",
     "iptv_urls": [
@@ -369,7 +347,7 @@
     "name": "Clifford the Big Red Dog: Classic",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N3uhkC6r5PU"
+      "https://www.youtube-nocookie.com/embed/0f1-otXPjC8"
     ],
     "language": "eng",
     "country": "us",
@@ -380,7 +358,7 @@
     "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MitZr6QqOm8"
+      "https://www.youtube-nocookie.com/embed/0yCm1WrF9yw"
     ],
     "language": "eng",
     "country": "us",
@@ -646,10 +624,21 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B6RpFOqhRKw"
+      "https://www.youtube-nocookie.com/embed/GW5qZ9GFoWA"
     ],
     "language": "urd",
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "iptv_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -842,6 +831,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eyL4xvR1sE1phq",
+    "name": "Nicktoons",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BQxDbDC4rhU"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jZAckV2XCo9tKn",
     "name": "Oddbods",
     "iptv_urls": [],
@@ -978,7 +978,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QUoGkW-bX4c"
+      "https://www.youtube-nocookie.com/embed/n-o3XRsqZpU"
     ],
     "language": "por",
     "country": "br",
@@ -1048,6 +1048,17 @@
     ],
     "language": "jpn",
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로: #1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/D9NLb1ZP-8o"
+    ],
+    "language": "kor",
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1128,17 +1139,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E3BHAyBMKjTQ8M",
-    "name": "Sesame Street",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BriLE5LwD3c"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "45hCYJB6fNJQh7",
     "name": "SKWAD",
     "iptv_urls": [
@@ -1165,7 +1165,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-gttV52E59Y"
+      "https://www.youtube-nocookie.com/embed/6lop6aGsNB4"
     ],
     "language": "eng",
     "country": "us",
@@ -1176,7 +1176,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WDPrDMPZeCo"
+      "https://www.youtube-nocookie.com/embed/v6rOYWHeLhI"
     ],
     "language": "eng",
     "country": "ca",
@@ -1187,7 +1187,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MlNi7w3Njdg"
+      "https://www.youtube-nocookie.com/embed/FY54NCjJi3A"
     ],
     "language": "eng",
     "country": "ca",
@@ -1198,7 +1198,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PMZ25SXeizA"
+      "https://www.youtube-nocookie.com/embed/mmpWSUk9XgU"
     ],
     "language": "eng",
     "country": "ca",
@@ -1286,6 +1286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bqJWjkuxMfJzes",
+    "name": "Totally Spies!: Season 1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iGG_LJ98MK8"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lvFwkInvbE9sJ0",
     "name": "Totally Spies!: Season 2",
     "iptv_urls": [],
@@ -1367,7 +1378,7 @@
     "name": "Unicorn Academy",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nNS1JZ9kvlI"
+      "https://www.youtube-nocookie.com/embed/GBgl8wzXNqU"
     ],
     "language": "eng",
     "country": "us",
@@ -1557,7 +1568,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qXa247UJ0kI"
+      "https://www.youtube-nocookie.com/embed/Y6oCgHIBhmY"
     ],
     "language": "zho",
     "country": "cn",

@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/au_oN1yFaiA"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3zs2UMlidApgeb",
     "name": "Blues TV",
     "iptv_urls": [
@@ -235,7 +224,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4F4GZ8IZo4U"
+      "https://www.youtube-nocookie.com/embed/kjqtB3VJN5k"
     ],
     "language": "eng",
     "country": "ca",
@@ -544,7 +533,7 @@
     "name": "TokuSHOUTsu: Speed Racer",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5ZwkSu43MPg"
+      "https://www.youtube-nocookie.com/embed/qt32SoWwpMQ"
     ],
     "language": "eng",
     "country": "us",
