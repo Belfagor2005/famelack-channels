@@ -133,17 +133,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8vjdEy4opeeKWC",
-    "name": "NG Radio TV",
-    "iptv_urls": [
-      "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jz0ciRS06fe4gc",
     "name": "Nueva Vida TV",
     "iptv_urls": [
@@ -215,17 +204,6 @@
     "name": "Triunfo 96.9 FM TV",
     "iptv_urls": [
       "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vyt0kv18Rn0n1W",
-    "name": "WDWL-DT1 (Teleadoración/Enlace PR)",
-    "iptv_urls": [
-      "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

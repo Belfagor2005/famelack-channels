@@ -396,6 +396,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6ljoSjl6uAhfcj",
+    "name": "Radio Alegria 98.5 FM",
+    "iptv_urls": [
+      "https://video.compuwebecuador.com:3880/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zXlX9cxqgTkhd2",
     "name": "Radio Bonita 106.7",
     "iptv_urls": [

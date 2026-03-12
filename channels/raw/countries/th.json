@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "fgt71QAXBWF0xr",
-    "name": "13 Siam Thai",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/13livetv-th.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BWaFZgSUSFWAMm",
     "name": "Boonniyom TV",
     "iptv_urls": [
@@ -33,10 +22,32 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RfFYZpw2B1Tu6O",
-    "name": "DLTV 5",
+    "nanoid": "9tRf46L4LZNOGa",
+    "name": "DLTV 12",
     "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv05.m3u8"
+      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZPUnfb9kCWJfnO",
+    "name": "DLTV 13",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv13.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sfr4boA9nNaI9M",
+    "name": "DLTV 15",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv15.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -77,11 +88,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "chmBg2GBFNqXoJ",
+    "name": "Police TV",
+    "iptv_urls": [
+      "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IC0ZQA3k7HadtW",
+    "name": "SBB TV",
+    "iptv_urls": [
+      "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "olJQmVUDZgXj1I",
     "name": "SHOP CH Thailand",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0mgmIEb2EBQ"
+      "https://www.youtube-nocookie.com/embed/27IJfCZn3lY"
     ],
     "language": "tha",
     "country": "th",
@@ -114,17 +147,6 @@
     "name": "Top News",
     "iptv_urls": [
       "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xP0smrBM1w21kH",
-    "name": "TV Muslim Thailand",
-    "iptv_urls": [
-      "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",

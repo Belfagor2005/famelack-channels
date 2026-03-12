@@ -320,10 +320,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y3iniHuYhBuCQD",
-    "name": "Wap TV",
+    "nanoid": "xqNDe2nURDi4zM",
+    "name": "Wazobia Max TV Abuja",
     "iptv_urls": [
-      "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -331,10 +331,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "roS6e38nLtSy8d",
-    "name": "Whole Word TV",
+    "nanoid": "XBCn7LG1vDEDMn",
+    "name": "Wazobia Max TV Nigeria",
     "iptv_urls": [
-      "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
+      "https://wazobia.live:8333/channel/wmax.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Uu8JpSpXEkB3Wk",
+    "name": "Wazobia Max TV Port Harcourt",
+    "iptv_urls": [
+      "https://wazobia.live:8333/channel/wmaxph.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

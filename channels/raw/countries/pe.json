@@ -275,17 +275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIUi7QauvvK3mU",
-    "name": "Radio Master",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vy9HTzZfX7NGXL",
     "name": "Radio Tropical Tarapoto",
     "iptv_urls": [
@@ -511,17 +500,6 @@
     "name": "Vía Televisión (720P)",
     "iptv_urls": [
       "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dpLqGa5wjsNEE1",
-    "name": "Viva TV Yurimaguas",
-    "iptv_urls": [
-      "https://live.obslivestream.com/vivatv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

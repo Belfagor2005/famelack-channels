@@ -244,6 +244,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "iptv_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oNpOE0EguTlVfK",
     "name": "Radio RAM",
     "iptv_urls": [
@@ -387,6 +398,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lZ08XnHwjKG7mF",
+    "name": "Telewizja Regionalna Zary",
+    "iptv_urls": [
+      "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "99BxHYFs1W5Wmp",
     "name": "Telewizja Republika",
     "iptv_urls": [],
@@ -514,17 +536,6 @@
       "https://edge06.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2SfhuUEazfjthW",
-    "name": "TV Relax",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6LpJuK1-PIw"
-    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

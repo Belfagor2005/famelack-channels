@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0X5lB22f2RPA0r",
     "name": "Alcance TV",
     "iptv_urls": [
@@ -209,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cUYxQqIrjcxxmY",
-    "name": "Norteña TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-2525Jmv/2525Jmv/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1b6pwDCZHXANgu",
     "name": "PortuTV",
     "iptv_urls": [
@@ -379,17 +357,6 @@
     "name": "TRT",
     "iptv_urls": [
       "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b3aSHeBRmQKpi4",
-    "name": "TV Oasis Monay",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

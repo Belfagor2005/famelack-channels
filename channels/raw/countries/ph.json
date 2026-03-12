@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "jJ5KY3frn8Mets",
-    "name": "Bilyonaryo News Channel",
+    "nanoid": "Zpcb6dPZj431wJ",
+    "name": "Abante TV",
     "iptv_urls": [
-      "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-      "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
+      "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+      "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -63,6 +63,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iy4DzSWvO3GYHT",
+    "name": "Teleradyo Serbisyo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6mPj484QYQk"
+    ],
+    "language": "tgl",
     "country": "ph",
     "isGeoBlocked": false
   },

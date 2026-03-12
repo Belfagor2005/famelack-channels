@@ -635,7 +635,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GW5qZ9GFoWA"
+      "https://www.youtube-nocookie.com/embed/iv5h2sGIiuA"
     ],
     "language": "urd",
     "country": "pk",
@@ -842,17 +842,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jZAckV2XCo9tKn",
-    "name": "Oddbods",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tIwESQuR2-s"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DwXz9p5aswScVu",
     "name": "PAW Patrol (English)",
     "iptv_urls": [],
@@ -978,7 +967,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Y_0MiJEuEU0"
+      "https://www.youtube-nocookie.com/embed/MLvsJnubLGc"
     ],
     "language": "por",
     "country": "br",
@@ -1055,7 +1044,7 @@
     "name": "Pororo 뽀로로: #1",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-HmmNEZdNaU"
+      "https://www.youtube-nocookie.com/embed/fVKpYK3x82M"
     ],
     "language": "kor",
     "country": "kr",
@@ -1176,7 +1165,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HhpcD3m2N-A"
+      "https://www.youtube-nocookie.com/embed/vwaL-urXPhU"
     ],
     "language": "eng",
     "country": "us",
@@ -1262,6 +1251,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1FcDtz6oQnPOL5",
+    "name": "Tom And Jerry",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XVTTuFjxudH7Ir",
     "name": "Toon Goggles",
     "iptv_urls": [
@@ -1308,6 +1308,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
+    "iptv_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A3RiBctXfom21P",
     "name": "TRT Diyanet Çocuk",
     "iptv_urls": [
@@ -1316,6 +1327,17 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eJ6LajESBOIbZe",
+    "name": "TV Bahoriston",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/3/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -1347,17 +1369,6 @@
       "https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fg8Ci5rWERRdEL",
-    "name": "Unicorn Academy",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cu-rZesj3L8"
-    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -1546,7 +1557,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XpsVTXWzkO8"
+      "https://www.youtube-nocookie.com/embed/ULAwZEbyPf0"
     ],
     "language": "zho",
     "country": "cn",

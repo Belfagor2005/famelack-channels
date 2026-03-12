@@ -507,7 +507,7 @@
     "country": "Equatorial Guinea",
     "capital": "Malabo",
     "timeZone": "Africa/Malabo",
-    "hasChannels": true
+    "hasChannels": false
   },
   "GR": {
     "country": "Greece",
@@ -1263,7 +1263,7 @@
     "country": "Tajikistan",
     "capital": "Dushanbe",
     "timeZone": "Asia/Dushanbe",
-    "hasChannels": false
+    "hasChannels": true
   },
   "TK": {
     "country": "Tokelau",

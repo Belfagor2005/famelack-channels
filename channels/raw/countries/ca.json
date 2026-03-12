@@ -25,7 +25,8 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -51,17 +52,6 @@
       "https://www.youtube-nocookie.com/embed/K1PagL4WZ1E"
     ],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vLJxCfSjAO72Wd",
-    "name": "Belmedia TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-aWbH6k9968"
-    ],
-    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1029,6 +1019,17 @@
       "https://www.youtube-nocookie.com/embed/8a-ItTH4Kk0"
     ],
     "language": "fra",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7MJcYnhqkdKmZp",
+    "name": "Watan-e-Maa TV",
+    "iptv_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "prd",
     "country": "ca",
     "isGeoBlocked": false
   },

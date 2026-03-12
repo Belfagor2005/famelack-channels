@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "WMJjDsAiyYAdS8",
+    "name": "ATN Televisión",
+    "iptv_urls": [
+      "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DhFWPxFh4aKhyC",
     "name": "Avivamiento TV",
     "iptv_urls": [
@@ -34,6 +45,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "z6j8GoKR6XeFrc",
+    "name": "Cali TV",
+    "iptv_urls": [
+      "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BHoTvgxAWuPUYQ",
     "name": "Canal 2 Alpavisión Neiva",
     "iptv_urls": [
@@ -61,6 +83,18 @@
     "name": "Canal 14 Codazzi",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8056/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JjVGVjzCa9hXFe",
+    "name": "Canal Más Televisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+      "https://video.ejeserver.com/live/teledoradahd.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -140,7 +174,7 @@
     "name": "CityTv",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/43iRyb38nkc"
+      "https://www.youtube-nocookie.com/embed/CbRwl3HT7D8"
     ],
     "language": "spa",
     "country": "co",
@@ -274,17 +308,6 @@
     "name": "Luna Estéreo 106.4 FM",
     "iptv_urls": [
       "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
-    "iptv_urls": [
-      "https://live.arnoproducciones.com/hls/norte.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

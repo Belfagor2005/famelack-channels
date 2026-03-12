@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oFHtWQgYWs3Y0k",
-    "name": "Banijay Documentaries: Haunted Stories",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UMHr__hBYYs"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Hvqcyi1KP5PsvX",
     "name": "Banijay Engine: Full Custom Garage",
     "iptv_urls": [],
@@ -852,6 +841,17 @@
     "name": "MTA8 America",
     "iptv_urls": [
       "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNQTzHtY43GPXe",
+    "name": "MyTime Movie Network",
+    "iptv_urls": [
+      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
